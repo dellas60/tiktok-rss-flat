@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-03-31T09:46:54+00:00</updated>
+  <updated>2024-03-31T18:10:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7351777761695993121</id>
-    <title>Sir Jeffrey Donaldson has been charged with historical sexual offences and has quit as Democratic Unionist Party (DUP) leader. #DUP #NorthernIreland #Politics #UK #UnitedKingdom #BBCNews</title>
-    <updated>2024-03-29T13:32:38+00:00</updated>
-    <content>Sir Jeffrey Donaldson has been charged with historical sexual offences and has quit as Democratic Unionist Party (DUP) leader. #DUP #NorthernIreland #Politics #UK #UnitedKingdom #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7351777761695993121"/>
-    <published>2024-03-29T13:32:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7351779584020335905</id>
     <title>What’s your favourite track from the album? Fight in the comments x #Beyonce #CowboyCarter #BeyonceAlbum #Renaissance #TexasHoldEm #Country #CountryMusic #MileyCyrus #DollyParton #PostMalone #TheChicks #ActII #BeyHive #Music #MusicNews #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>It’s giving Final Destination 😳. #NearMiss #LuckyEscape #CCTV #MustSee #Eugene #Oregon #BBCNews </content>
     <link href="https://tiktok.com/@bbcnews/video/7352461769756953889"/>
     <published>2024-03-31T09:46:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7352591448220437793</id>
+    <title>Gotta get that vitty D now the clocks have changed. #BritishSummerTime #SpringForward #Sunlight #VitaminD #BBCIdeas #BBCNews </title>
+    <updated>2024-03-31T18:10:05+00:00</updated>
+    <content>Gotta get that vitty D now the clocks have changed. #BritishSummerTime #SpringForward #Sunlight #VitaminD #BBCIdeas #BBCNews </content>
+    <link href="https://tiktok.com/@bbcnews/video/7352591448220437793"/>
+    <published>2024-03-31T18:10:05+00:00</published>
   </entry>
 </feed>
