@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-01T15:44:22+00:00</updated>
+  <updated>2024-04-01T19:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7351815922295835936</id>
-    <title>In August 1945, Oppenheimer's nuclear bomb killed an estimated 140,000 people in Hiroshima and at least 74,000 people in Nagasaki. Today, the biopic about Oppenheimer's life was released in Japan. #Hiroshima #Nagasaki #Oppenheimer #Japan #NuclearBomb #His</title>
-    <updated>2024-03-29T16:00:41+00:00</updated>
-    <content>In August 1945, Oppenheimer's nuclear bomb killed an estimated 140,000 people in Hiroshima and at least 74,000 people in Nagasaki. Today, the biopic about Oppenheimer's life was released in Japan. #Hiroshima #Nagasaki #Oppenheimer #Japan #NuclearBomb #His</content>
-    <link href="https://tiktok.com/@bbcnews/video/7351815922295835936"/>
-    <published>2024-03-29T16:00:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7351823617283411233</id>
-    <title>The FINALE of #DragRaceUK is tonight, but are you #TeamMarina? #MarinaSummers #DragRace #DragRaceUK #RuPaul #TeamLaGrandeDame #TeamHannah #TeamTia #BBCNews</title>
-    <updated>2024-03-29T17:00:00+00:00</updated>
-    <content>The FINALE of #DragRaceUK is tonight, but are you #TeamMarina? #MarinaSummers #DragRace #DragRaceUK #RuPaul #TeamLaGrandeDame #TeamHannah #TeamTia #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7351823617283411233"/>
-    <published>2024-03-29T17:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7351836559169113376</id>
     <title>New video shows investigators inside the container vessel, Dali, to inspect damage and download the ship data. #FrancisScottKeyBridge #Baltimore #US  #BaltimoreBridge #Bridge #Cargo #BridgeCollapse #Maryland #News #BBCNews</title>
@@ -91,5 +75,21 @@
     <content>Why is Scotland’s new hate crime controversial? #Scotland #ScottishPolitics #HateCrime #Crime #Law #ElonMusk #JKRowling #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7352924677477682465"/>
     <published>2024-04-01T15:44:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7352955924589432096</id>
+    <title>Germany has - on April 1 - partially legalised the use of the drug. #Germany  #Decriminalisation #Dresden #Neustadt #SocialClub #GermanPolice #BBCNews</title>
+    <updated>2024-04-01T18:00:00+00:00</updated>
+    <content>Germany has - on April 1 - partially legalised the use of the drug. #Germany  #Decriminalisation #Dresden #Neustadt #SocialClub #GermanPolice #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7352955924589432096"/>
+    <published>2024-04-01T18:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7352951103610162464</id>
+    <title>This BBC Panorama clip is believed to be one of the first televised April Fools' pranks. #AprilFools #AprilFoolsDay #Spaghetti #Archive #Nostalgia #1950s  #Television #Harvest #BBCNews</title>
+    <updated>2024-04-01T19:00:00+00:00</updated>
+    <content>This BBC Panorama clip is believed to be one of the first televised April Fools' pranks. #AprilFools #AprilFoolsDay #Spaghetti #Archive #Nostalgia #1950s  #Television #Harvest #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7352951103610162464"/>
+    <published>2024-04-01T19:00:00+00:00</published>
   </entry>
 </feed>

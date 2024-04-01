@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ennahar.tv</id>
   <title>ennahar.tv TikTok</title>
-  <updated>2024-03-31T22:54:01+00:00</updated>
+  <updated>2024-04-01T19:32:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ennahar.tv</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7352255150322404613</id>
-    <title>حلقة مشوقة وأحداث جديدة في انتظاركم في الحلقة العشرون من مسلسل #الرهان.. الحماس يزداد🔥🔥 #الرهان الحلقة-20- | https://youtu.be/PlftCdUWsKs كونوا في الموعد😉 #ennahar_tv📺 #alger🇩🇿 #رمضان_2024 #النهار #الرهان </title>
-    <updated>2024-03-30T20:25:03+00:00</updated>
-    <content>حلقة مشوقة وأحداث جديدة في انتظاركم في الحلقة العشرون من مسلسل #الرهان.. الحماس يزداد🔥🔥 #الرهان الحلقة-20- | https://youtu.be/PlftCdUWsKs كونوا في الموعد😉 #ennahar_tv📺 #alger🇩🇿 #رمضان_2024 #النهار #الرهان </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7352255150322404613"/>
-    <published>2024-03-30T20:25:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7352266064798977286</id>
-    <title>تعرفوا على عيسى الجديد😍 #الرهان الحلقة-20- | https://youtu.be/PlftCdUWsKs #الرهان #alger🇩🇿 #النهار #ennahar_tv📺 #رمضان_2024 </title>
-    <updated>2024-03-30T21:07:24+00:00</updated>
-    <content>تعرفوا على عيسى الجديد😍 #الرهان الحلقة-20- | https://youtu.be/PlftCdUWsKs #الرهان #alger🇩🇿 #النهار #ennahar_tv📺 #رمضان_2024 </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7352266064798977286"/>
-    <published>2024-03-30T21:07:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7352309320945601798</id>
     <title>#الرئيس_تبون .. عبارة عمي تبون التي يخاطبني بها الشباب تؤثر فيّ .. وهي تحمل معاني الإحترام والحنان والأبوية #ennahar_tv📺 #رئيس_الجمهوريه #alger🇩🇿 #النهار </title>
@@ -67,6 +51,22 @@
     <content>📌قرار جديد.. ماليوم مانزيدش نشوفك فالسطاد!! #الرهان الحلقة -21- https://youtu.be/_2GKY-gqDoY #ennahar_tv📺 #النهار #alger🇩🇿 #الرهان </content>
     <link href="https://tiktok.com/@ennahar.tv/video/7352664628012272902"/>
     <published>2024-03-31T22:54:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7352978142522346757</id>
+    <title>📌سالم بالدموع!! " الدنيا فانية ملي راحو شوابين وليت مغبون" #alger🇩🇿 #النهار #ennahar_tv📺 #خليها_على_ربي </title>
+    <updated>2024-04-01T19:10:36+00:00</updated>
+    <content>📌سالم بالدموع!! " الدنيا فانية ملي راحو شوابين وليت مغبون" #alger🇩🇿 #النهار #ennahar_tv📺 #خليها_على_ربي </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7352978142522346757"/>
+    <published>2024-04-01T19:10:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7352983766278638854</id>
+    <title>📌قلبك يتقطع .. عمي محمد يعيش تحت الشجرة منذ سنوات!! #alger🇩🇿 #ennahar_tv📺 #خليها_على_ربي </title>
+    <updated>2024-04-01T19:32:26+00:00</updated>
+    <content>📌قلبك يتقطع .. عمي محمد يعيش تحت الشجرة منذ سنوات!! #alger🇩🇿 #ennahar_tv📺 #خليها_على_ربي </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7352983766278638854"/>
+    <published>2024-04-01T19:32:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7213842316166024453</id>
