@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ennahar.tv</id>
   <title>ennahar.tv TikTok</title>
-  <updated>2024-03-31T18:32:22+00:00</updated>
+  <updated>2024-03-31T22:54:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ennahar.tv</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7352166176660737285</id>
-    <title>📌#الرئيس_تبون يعقد لقاء دوريا مع ممثلي الصحافة الوطنية 👈تتابعونه الليلة ابتداء من الساعة 22:00 مساءً على القنوات التلفزيونية والإذاعية #alger🇩🇿 #رمضان_2024 #ennahar_tv📺 #النهار </title>
-    <updated>2024-03-30T14:39:46+00:00</updated>
-    <content>📌#الرئيس_تبون يعقد لقاء دوريا مع ممثلي الصحافة الوطنية 👈تتابعونه الليلة ابتداء من الساعة 22:00 مساءً على القنوات التلفزيونية والإذاعية #alger🇩🇿 #رمضان_2024 #ennahar_tv📺 #النهار </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7352166176660737285"/>
-    <published>2024-03-30T14:39:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7352255150322404613</id>
     <title>حلقة مشوقة وأحداث جديدة في انتظاركم في الحلقة العشرون من مسلسل #الرهان.. الحماس يزداد🔥🔥 #الرهان الحلقة-20- | https://youtu.be/PlftCdUWsKs كونوا في الموعد😉 #ennahar_tv📺 #alger🇩🇿 #رمضان_2024 #النهار #الرهان </title>
@@ -67,6 +59,14 @@
     <content>📌_فتحي.. "حياتي دمرت خدمت الحبس 19 مرة !" #ennahar_tv📺 #خليها_على_ربي #alger🇩🇿 #النهار </content>
     <link href="https://tiktok.com/@ennahar.tv/video/7352597197655002373"/>
     <published>2024-03-31T18:32:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7352664628012272902</id>
+    <title>📌قرار جديد.. ماليوم مانزيدش نشوفك فالسطاد!! #الرهان الحلقة -21- https://youtu.be/_2GKY-gqDoY #ennahar_tv📺 #النهار #alger🇩🇿 #الرهان </title>
+    <updated>2024-03-31T22:54:01+00:00</updated>
+    <content>📌قرار جديد.. ماليوم مانزيدش نشوفك فالسطاد!! #الرهان الحلقة -21- https://youtu.be/_2GKY-gqDoY #ennahar_tv📺 #النهار #alger🇩🇿 #الرهان </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7352664628012272902"/>
+    <published>2024-03-31T22:54:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7213842316166024453</id>
