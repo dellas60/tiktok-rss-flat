@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-02T10:47:54+00:00</updated>
+  <updated>2024-04-02T12:23:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7351751897994333473</id>
-    <title>The 'Assume That I Can' campaign starring Madison Tevlin went viral on World Down Syndrome Day. #AssumeThatICan #WDSD24 #WorldDownSyndromeDay #DownSyndrome #Viral #MadisonTevlin #Champions #WhoDoYouThinkIAm #BBCNews</title>
-    <updated>2024-03-30T16:00:00+00:00</updated>
-    <content>The 'Assume That I Can' campaign starring Madison Tevlin went viral on World Down Syndrome Day. #AssumeThatICan #WDSD24 #WorldDownSyndromeDay #DownSyndrome #Viral #MadisonTevlin #Champions #WhoDoYouThinkIAm #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7351751897994333473"/>
-    <published>2024-03-30T16:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7351460903696485664</id>
-    <title>"He unzipped his jacket and pulled a gun out on us." #RoadWorks #RoadWorkers #M25 #Roads #Transport #Work #Career #BBCNews</title>
-    <updated>2024-03-31T07:00:00+00:00</updated>
-    <content>"He unzipped his jacket and pulled a gun out on us." #RoadWorks #RoadWorkers #M25 #Roads #Transport #Work #Career #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7351460903696485664"/>
-    <published>2024-03-31T07:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7352461769756953889</id>
     <title>It’s giving Final Destination 😳. #NearMiss #LuckyEscape #CCTV #MustSee #Eugene #Oregon #BBCNews </title>
@@ -91,5 +75,21 @@
     <content>A child, aged 12, has been arrested after a deadly shooting at a primary school in Vantaa, Finland. #Finland  #Vantaa  #School  #ViertolaSchool  #News  #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7353219671862054176"/>
     <published>2024-04-02T10:47:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353231816892960032</id>
+    <title>Do you think fans have a right to comment on stars’ relationships? #KPop  #KPopStan  #aespaKarina  #Karina  #aespa  #LeeJaeWook  #Music  #SouthKorea  #BBCNews</title>
+    <updated>2024-04-02T11:35:03+00:00</updated>
+    <content>Do you think fans have a right to comment on stars’ relationships? #KPop  #KPopStan  #aespaKarina  #Karina  #aespa  #LeeJaeWook  #Music  #SouthKorea  #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353231816892960032"/>
+    <published>2024-04-02T11:35:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353244370985930017</id>
+    <title>The German Football Association said a new number 4 design will be made. #Germany  #Football  #DFB  #DeutscherFußballBund  #FootballKit  #GermanFootballAssociation  #GermanyFootball  #GermanFootball  #FootballTikTok  #Euro2024  #BBCNews</title>
+    <updated>2024-04-02T12:23:46+00:00</updated>
+    <content>The German Football Association said a new number 4 design will be made. #Germany  #Football  #DFB  #DeutscherFußballBund  #FootballKit  #GermanFootballAssociation  #GermanyFootball  #GermanFootball  #FootballTikTok  #Euro2024  #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353244370985930017"/>
+    <published>2024-04-02T12:23:46+00:00</published>
   </entry>
 </feed>

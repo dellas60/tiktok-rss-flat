@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-01T23:20:37+00:00</updated>
+  <updated>2024-04-02T11:30:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353015710026599698</id>
-    <title>السيناتور فان هولن: حتى يسمح نتنياهو بدخول مزيدٍ من المساعدات لا ينبغي إرسال المزيد من القنابل #الأخبار #حرب_غزة #الولايات_المتحدة_الامريكية #سيناتور #إسرائيل #فلسطين </title>
-    <updated>2024-04-01T21:36:30+00:00</updated>
-    <content>السيناتور فان هولن: حتى يسمح نتنياهو بدخول مزيدٍ من المساعدات لا ينبغي إرسال المزيد من القنابل #الأخبار #حرب_غزة #الولايات_المتحدة_الامريكية #سيناتور #إسرائيل #فلسطين </content>
-    <link href="https://tiktok.com/@aljazeera/video/7353015710026599698"/>
-    <published>2024-04-01T21:36:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353012532078038279</id>
     <title>شبكات | مشاهد جديدة.. المقاومة تستهدف قاعدة عسكرية إسرائيلية بمدينة إيلات #شبكات #إسرائيل #العراق #إيلات #أحمد_فاخوري</title>
@@ -67,6 +59,14 @@
     <content>الجيش الإسرائيلي: نجري مراجعة لفهم ظروف الحادث المأساوي الذي تعرض له فريق المطبخ المركزي العالمي 🚨 الجيش الإسرائيلي: نعمل بشكل وثيق مع منظمة المطبخ العالمي المركزي لتوفير الطعام والمساعدات الإنسانية لسكان غزة #عاجل #حرب_غزة #الجيش_الإسرائيلي #إسرائيل </content>
     <link href="https://tiktok.com/@aljazeera/video/7353042539156491538"/>
     <published>2024-04-01T23:20:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7353230541233130769</id>
+    <title>بعدما توعد بوقف بث القناة وإغلاق مكتبها في إسرائيل.. شبكة #الجزيرة تدين تصريحات نتنياهو وتحمله مسؤولية سلامة أطقمها ومنشآتها حول العالم #حرب_غزة #صورة </title>
+    <updated>2024-04-02T11:30:06+00:00</updated>
+    <content>بعدما توعد بوقف بث القناة وإغلاق مكتبها في إسرائيل.. شبكة #الجزيرة تدين تصريحات نتنياهو وتحمله مسؤولية سلامة أطقمها ومنشآتها حول العالم #حرب_غزة #صورة </content>
+    <link href="https://tiktok.com/@aljazeera/video/7353230541233130769"/>
+    <published>2024-04-02T11:30:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7350785714071637249</id>
