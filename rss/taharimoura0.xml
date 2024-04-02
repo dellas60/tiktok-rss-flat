@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@taharimoura0</id>
   <title>taharimoura0 TikTok</title>
-  <updated>2024-04-02T17:30:06+00:00</updated>
+  <updated>2024-04-02T19:59:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from taharimoura0</subtitle>
-  <entry>
-    <id>https://tiktok.com/@taharimoura0/video/7348854766618905889</id>
-    <title>#تونس_الجزائر_المغرب_ليبيا #🇩🇿🇲🇦🇹🇳🇱🇾 #perte #viral </title>
-    <updated>2024-03-21T16:30:11+00:00</updated>
-    <content>#تونس_الجزائر_المغرب_ليبيا #🇩🇿🇲🇦🇹🇳🇱🇾 #perte #viral </content>
-    <link href="https://tiktok.com/@taharimoura0/video/7348854766618905889"/>
-    <published>2024-03-21T16:30:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@taharimoura0/video/7349099637069860129</id>
     <title>#تونس_الجزائر_المغرب_ليبيا #🇩🇿🇲🇦🇹🇳🇱🇾 #perte #viral </title>
@@ -139,5 +131,13 @@
     <content>#تونس_الجزائر_المغرب_ليبيا #🇩🇿🇲🇦🇹🇳🇱🇾 #perte #viral </content>
     <link href="https://tiktok.com/@taharimoura0/video/7353323319703145761"/>
     <published>2024-04-02T17:30:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@taharimoura0/video/7353361922961509664</id>
+    <title>#تونس_الجزائر_المغرب_ليبيا #🇩🇿🇲🇦🇹🇳🇱🇾 #perte #viral </title>
+    <updated>2024-04-02T19:59:55+00:00</updated>
+    <content>#تونس_الجزائر_المغرب_ليبيا #🇩🇿🇲🇦🇹🇳🇱🇾 #perte #viral </content>
+    <link href="https://tiktok.com/@taharimoura0/video/7353361922961509664"/>
+    <published>2024-04-02T19:59:55+00:00</published>
   </entry>
 </feed>

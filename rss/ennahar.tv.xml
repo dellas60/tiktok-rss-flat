@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ennahar.tv</id>
   <title>ennahar.tv TikTok</title>
-  <updated>2024-04-01T22:14:50+00:00</updated>
+  <updated>2024-04-02T20:12:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ennahar.tv</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7352310536362675461</id>
-    <title>🔴🔴 #رئيس_الجمهورية .. أقول أن الجزائر لن تركع و من يخصص أموالا طائلة من أجل إشعال نار الفتنة عليه اللعنة #النهار #alger🇩🇿 #رئيس_الجمهوريه #ennahar_tv📺 </title>
-    <updated>2024-03-31T00:00:00+00:00</updated>
-    <content>🔴🔴 #رئيس_الجمهورية .. أقول أن الجزائر لن تركع و من يخصص أموالا طائلة من أجل إشعال نار الفتنة عليه اللعنة #النهار #alger🇩🇿 #رئيس_الجمهوريه #ennahar_tv📺 </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7352310536362675461"/>
-    <published>2024-03-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7352311705881349381</id>
-    <title>🔴🔴 #رئيس_الجمهورية .. نتمنى أن تبقى الأسعار التي رأيناها في رمضان طول السنة #alger🇩🇿 #رئيس_الجمهوريه #ennahar_tv📺 #النهار </title>
-    <updated>2024-03-31T00:04:31+00:00</updated>
-    <content>🔴🔴 #رئيس_الجمهورية .. نتمنى أن تبقى الأسعار التي رأيناها في رمضان طول السنة #alger🇩🇿 #رئيس_الجمهوريه #ennahar_tv📺 #النهار </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7352311705881349381"/>
-    <published>2024-03-31T00:04:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7352597197655002373</id>
     <title>📌_فتحي.. "حياتي دمرت خدمت الحبس 19 مرة !" #ennahar_tv📺 #خليها_على_ربي #alger🇩🇿 #النهار </title>
@@ -67,6 +51,22 @@
     <content>دمرتيلي حياتي.. انهيار "ريم"!! #الرهان الحلقة -22- 👇👇  https://youtu.be/GjYV_OAsZ2Q #ennahar_tv📺 #النهار #alger🇩🇿 #الرهان </content>
     <link href="https://tiktok.com/@ennahar.tv/video/7353025614653263109"/>
     <published>2024-04-01T22:14:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7353360787701894406</id>
+    <title>حطمتيني وهرستيني🥺💔 الحلقة المنتظرة اليوم في مسلسل #الرهان.. كونوا في الموعد📺😉 #alger🇩🇿 #النهار #ennahar_tv📺 #الرهان </title>
+    <updated>2024-04-02T19:55:28+00:00</updated>
+    <content>حطمتيني وهرستيني🥺💔 الحلقة المنتظرة اليوم في مسلسل #الرهان.. كونوا في الموعد📺😉 #alger🇩🇿 #النهار #ennahar_tv📺 #الرهان </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7353360787701894406"/>
+    <published>2024-04-02T19:55:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7353365157189258502</id>
+    <title>مفاجأة للضابطة منال😲😲 #الرهان الحلقة -23- 👇👇 https://youtu.be/TusKAATYKAQ #النهار #ennahar_tv📺 #الرهان </title>
+    <updated>2024-04-02T20:12:25+00:00</updated>
+    <content>مفاجأة للضابطة منال😲😲 #الرهان الحلقة -23- 👇👇 https://youtu.be/TusKAATYKAQ #النهار #ennahar_tv📺 #الرهان </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7353365157189258502"/>
+    <published>2024-04-02T20:12:25+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7213842316166024453</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-02T18:46:35+00:00</updated>
+  <updated>2024-04-02T19:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353214872563305761</id>
-    <title>The horse was having a bit of a mare. #Horse  #Rescue #AnimalRescue  #HorseRiding  #California  #LosAngeles  #News  #BBCNews</title>
-    <updated>2024-04-02T10:29:18+00:00</updated>
-    <content>The horse was having a bit of a mare. #Horse  #Rescue #AnimalRescue  #HorseRiding  #California  #LosAngeles  #News  #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353214872563305761"/>
-    <published>2024-04-02T10:29:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353219671862054176</id>
     <title>A child, aged 12, has been arrested after a deadly shooting at a primary school in Vantaa, Finland. #Finland  #Vantaa  #School  #ViertolaSchool  #News  #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>A number of people - including the nightclub manager - have had warrants out for their arrest in connection with the fire. #Istanbul #Turkey #MasqueradeClub #IstanbulNightclub #NightclubFire #Nightclub #Fire #News #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7353343031669427488"/>
     <published>2024-04-02T18:46:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353336526354353441</id>
+    <title>22-year-old Faith Harrison started feeling unwell after a hockey game in January. #HeartAttack #Heart #Health #Fitness #HeartAttackAwareness #BBCNews</title>
+    <updated>2024-04-02T19:30:00+00:00</updated>
+    <content>22-year-old Faith Harrison started feeling unwell after a hockey game in January. #HeartAttack #Heart #Health #Fitness #HeartAttackAwareness #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353336526354353441"/>
+    <published>2024-04-02T19:30:00+00:00</published>
   </entry>
 </feed>
