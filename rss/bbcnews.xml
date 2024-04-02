@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-02T17:15:00+00:00</updated>
+  <updated>2024-04-02T18:03:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7352951103610162464</id>
-    <title>This BBC Panorama clip is believed to be one of the first televised April Fools' pranks. #AprilFools #AprilFoolsDay #Spaghetti #Archive #Nostalgia #1950s  #Television #Harvest #BBCNews</title>
-    <updated>2024-04-01T19:00:00+00:00</updated>
-    <content>This BBC Panorama clip is believed to be one of the first televised April Fools' pranks. #AprilFools #AprilFoolsDay #Spaghetti #Archive #Nostalgia #1950s  #Television #Harvest #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7352951103610162464"/>
-    <published>2024-04-01T19:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353176018946886945</id>
     <title>Three children have been wounded in a shooting at a school in the city of Vantaa in Finland, police have said. #Finland #Vantaa #School #ViertolaSchool #News #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>Why is it raining so much? #Rain #Weather #BritishWeather #Wet #Forecast #WeatherForecast #UKWeather #Pershore #Plymouth #Salisbury #Heathrow #News #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7353311156091505953"/>
     <published>2024-04-02T17:15:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353331880889994529</id>
+    <title>The Criminal Justice Bill could criminalise rough sleepers if they cause a "nuisance", including "excessive smells". #Homeless #Homelessness #RoughSleeping #GillianKeegan #SuellaBraverman #CriminalJusticeBill #UKPolitics #UKLaw #HouseOfCommons #News #BBCN</title>
+    <updated>2024-04-02T18:03:20+00:00</updated>
+    <content>The Criminal Justice Bill could criminalise rough sleepers if they cause a "nuisance", including "excessive smells". #Homeless #Homelessness #RoughSleeping #GillianKeegan #SuellaBraverman #CriminalJusticeBill #UKPolitics #UKLaw #HouseOfCommons #News #BBCN</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353331880889994529"/>
+    <published>2024-04-02T18:03:20+00:00</published>
   </entry>
 </feed>

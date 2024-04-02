@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-02T17:14:20+00:00</updated>
+  <updated>2024-04-02T18:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353042539156491538</id>
-    <title>الجيش الإسرائيلي: نجري مراجعة لفهم ظروف الحادث المأساوي الذي تعرض له فريق المطبخ المركزي العالمي 🚨 الجيش الإسرائيلي: نعمل بشكل وثيق مع منظمة المطبخ العالمي المركزي لتوفير الطعام والمساعدات الإنسانية لسكان غزة #عاجل #حرب_غزة #الجيش_الإسرائيلي #إسرائيل </title>
-    <updated>2024-04-01T23:20:37+00:00</updated>
-    <content>الجيش الإسرائيلي: نجري مراجعة لفهم ظروف الحادث المأساوي الذي تعرض له فريق المطبخ المركزي العالمي 🚨 الجيش الإسرائيلي: نعمل بشكل وثيق مع منظمة المطبخ العالمي المركزي لتوفير الطعام والمساعدات الإنسانية لسكان غزة #عاجل #حرب_غزة #الجيش_الإسرائيلي #إسرائيل </content>
-    <link href="https://tiktok.com/@aljazeera/video/7353042539156491538"/>
-    <published>2024-04-01T23:20:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353230541233130769</id>
-    <title>بعدما توعد بوقف بث القناة وإغلاق مكتبها في إسرائيل.. شبكة #الجزيرة تدين تصريحات نتنياهو وتحمله مسؤولية سلامة أطقمها ومنشآتها حول العالم #حرب_غزة #صورة </title>
-    <updated>2024-04-02T11:30:06+00:00</updated>
-    <content>بعدما توعد بوقف بث القناة وإغلاق مكتبها في إسرائيل.. شبكة #الجزيرة تدين تصريحات نتنياهو وتحمله مسؤولية سلامة أطقمها ومنشآتها حول العالم #حرب_غزة #صورة </content>
-    <link href="https://tiktok.com/@aljazeera/video/7353230541233130769"/>
-    <published>2024-04-02T11:30:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353284141900762386</id>
     <title>رئيس وزراء أستراليا: نتوقع محاسبة كاملة عن مقتل عمال الإغاثة وسائقهم الفلسطيني في قطاع #غزة  #الأخبار #حرب_غزة </title>
@@ -67,6 +51,22 @@
     <content>الأوضاع الأمنية في ولاية أراكان غربي ميانمار تتفاقم ما أثر على قرى الروهينغيا التي تشهد سقوط قتلى وجرحى في قصف ومواجهات، إضافة إلى موجة لجوء جديدة نحو إندونيسيا #تقرير #ميانمار #الروهنجيا #إندونيسيا</content>
     <link href="https://tiktok.com/@aljazeera/video/7353319158374878471"/>
     <published>2024-04-02T17:14:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7353319390047145224</id>
+    <title>مراسل #الجزيرة  أشرف أبو عمرة يزور مكان استهداف فريق منظمة المطبخ المركزي العالمي ويرصد لنا الآثار التي خلفها القصف #الأخبار #حرب_غزة #إسرائيل</title>
+    <updated>2024-04-02T17:35:00+00:00</updated>
+    <content>مراسل #الجزيرة  أشرف أبو عمرة يزور مكان استهداف فريق منظمة المطبخ المركزي العالمي ويرصد لنا الآثار التي خلفها القصف #الأخبار #حرب_غزة #إسرائيل</content>
+    <link href="https://tiktok.com/@aljazeera/video/7353319390047145224"/>
+    <published>2024-04-02T17:35:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7353320124528741640</id>
+    <title>طبق “اللازانيا” على الطريقة الغزية #فيديو #حرب_غزة</title>
+    <updated>2024-04-02T18:00:00+00:00</updated>
+    <content>طبق “اللازانيا” على الطريقة الغزية #فيديو #حرب_غزة</content>
+    <link href="https://tiktok.com/@aljazeera/video/7353320124528741640"/>
+    <published>2024-04-02T18:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7350785714071637249</id>
