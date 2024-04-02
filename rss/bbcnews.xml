@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-02T12:23:46+00:00</updated>
+  <updated>2024-04-02T14:19:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7352461769756953889</id>
-    <title>It’s giving Final Destination 😳. #NearMiss #LuckyEscape #CCTV #MustSee #Eugene #Oregon #BBCNews </title>
-    <updated>2024-03-31T09:46:54+00:00</updated>
-    <content>It’s giving Final Destination 😳. #NearMiss #LuckyEscape #CCTV #MustSee #Eugene #Oregon #BBCNews </content>
-    <link href="https://tiktok.com/@bbcnews/video/7352461769756953889"/>
-    <published>2024-03-31T09:46:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7352591448220437793</id>
     <title>Gotta get that vitty D now the clocks have changed. #BritishSummerTime #SpringForward #Sunlight #VitaminD #BBCIdeas #BBCNews </title>
@@ -91,5 +83,13 @@
     <content>The German Football Association said a new number 4 design will be made. #Germany  #Football  #DFB  #DeutscherFußballBund  #FootballKit  #GermanFootballAssociation  #GermanyFootball  #GermanFootball  #FootballTikTok  #Euro2024  #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7353244370985930017"/>
     <published>2024-04-02T12:23:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353274092142775584</id>
+    <title>Seven people working for a food aid charity were killed in an Israeli strike in Gaza. #Israel  #Gaza  #IsraelGaza  #News  #BBCNews</title>
+    <updated>2024-04-02T14:19:07+00:00</updated>
+    <content>Seven people working for a food aid charity were killed in an Israeli strike in Gaza. #Israel  #Gaza  #IsraelGaza  #News  #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353274092142775584"/>
+    <published>2024-04-02T14:19:07+00:00</published>
   </entry>
 </feed>
