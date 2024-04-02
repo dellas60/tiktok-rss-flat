@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-02T14:19:07+00:00</updated>
+  <updated>2024-04-02T14:36:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7352591448220437793</id>
-    <title>Gotta get that vitty D now the clocks have changed. #BritishSummerTime #SpringForward #Sunlight #VitaminD #BBCIdeas #BBCNews </title>
-    <updated>2024-03-31T18:10:05+00:00</updated>
-    <content>Gotta get that vitty D now the clocks have changed. #BritishSummerTime #SpringForward #Sunlight #VitaminD #BBCIdeas #BBCNews </content>
-    <link href="https://tiktok.com/@bbcnews/video/7352591448220437793"/>
-    <published>2024-03-31T18:10:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7352924677477682465</id>
     <title>Why is Scotland’s new hate crime controversial? #Scotland #ScottishPolitics #HateCrime #Crime #Law #ElonMusk #JKRowling #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>Seven people working for a food aid charity were killed in an Israeli strike in Gaza. #Israel  #Gaza  #IsraelGaza  #News  #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7353274092142775584"/>
     <published>2024-04-02T14:19:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353278560930417952</id>
+    <title>Three British civilians were among the seven aid workers killed in an Israeli strike on a Gaza aid convoy, the charity World Central Kitchen has confirmed. #Israel  #Gaza  #IsraelGaza  #WorldCentralKitchen  #News  #BBCNews</title>
+    <updated>2024-04-02T14:36:27+00:00</updated>
+    <content>Three British civilians were among the seven aid workers killed in an Israeli strike on a Gaza aid convoy, the charity World Central Kitchen has confirmed. #Israel  #Gaza  #IsraelGaza  #WorldCentralKitchen  #News  #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353278560930417952"/>
+    <published>2024-04-02T14:36:27+00:00</published>
   </entry>
 </feed>

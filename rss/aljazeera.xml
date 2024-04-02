@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-02T11:30:06+00:00</updated>
+  <updated>2024-04-02T14:58:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353012532078038279</id>
-    <title>شبكات | مشاهد جديدة.. المقاومة تستهدف قاعدة عسكرية إسرائيلية بمدينة إيلات #شبكات #إسرائيل #العراق #إيلات #أحمد_فاخوري</title>
-    <updated>2024-04-01T21:45:00+00:00</updated>
-    <content>شبكات | مشاهد جديدة.. المقاومة تستهدف قاعدة عسكرية إسرائيلية بمدينة إيلات #شبكات #إسرائيل #العراق #إيلات #أحمد_فاخوري</content>
-    <link href="https://tiktok.com/@aljazeera/video/7353012532078038279"/>
-    <published>2024-04-01T21:45:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353021447616466184</id>
     <title>عاجل‬⁩ | مكتب الإعلام الحكومي بغزة:  ‏- الاحتلال اغتال فريقا أجنبيا مكونا من بريطاني وبولندي وأسترالي وآخر مجهول الهوية. ‏- الغارة الإسرائيلية على الفريق الأجنبي بدير البلح أسفرت عن استشهاد سائقهم الفلسطيني. ‏⁧‫#حرب_غزة #عاجل </title>
@@ -67,6 +59,14 @@
     <content>بعدما توعد بوقف بث القناة وإغلاق مكتبها في إسرائيل.. شبكة #الجزيرة تدين تصريحات نتنياهو وتحمله مسؤولية سلامة أطقمها ومنشآتها حول العالم #حرب_غزة #صورة </content>
     <link href="https://tiktok.com/@aljazeera/video/7353230541233130769"/>
     <published>2024-04-02T11:30:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7353284141900762386</id>
+    <title>رئيس وزراء أستراليا: نتوقع محاسبة كاملة عن مقتل عمال الإغاثة وسائقهم الفلسطيني في قطاع #غزة  #الأخبار #حرب_غزة </title>
+    <updated>2024-04-02T14:58:04+00:00</updated>
+    <content>رئيس وزراء أستراليا: نتوقع محاسبة كاملة عن مقتل عمال الإغاثة وسائقهم الفلسطيني في قطاع #غزة  #الأخبار #حرب_غزة </content>
+    <link href="https://tiktok.com/@aljazeera/video/7353284141900762386"/>
+    <published>2024-04-02T14:58:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7350785714071637249</id>
