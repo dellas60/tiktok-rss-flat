@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@amir.dz.b</id>
+  <title>amir.dz.b TikTok</title>
+  <updated>2024-03-31T18:06:29+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://github.com/dellas60/tiktok-rss-flat/rss/amir.dz.b.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from amir.dz.b</subtitle>
+  <entry>
+    <id>https://tiktok.com/@amir.dz.b/video/7348905953875463457</id>
+    <title>No Title</title>
+    <updated>2024-03-21T19:48:29+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@amir.dz.b/video/7348905953875463457"/>
+    <published>2024-03-21T19:48:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@amir.dz.b/video/7348968012839406881</id>
+    <title>No Title</title>
+    <updated>2024-03-21T23:49:31+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@amir.dz.b/video/7348968012839406881"/>
+    <published>2024-03-21T23:49:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@amir.dz.b/video/7348994907530382624</id>
+    <title>No Title</title>
+    <updated>2024-03-22T01:34:17+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@amir.dz.b/video/7348994907530382624"/>
+    <published>2024-03-22T01:34:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@amir.dz.b/video/7349009469948300577</id>
+    <title>#duo avec @kamel dhm🌿🖤 #kameldhm </title>
+    <updated>2024-03-22T02:30:51+00:00</updated>
+    <content>#duo avec @kamel dhm🌿🖤 #kameldhm </content>
+    <link href="https://tiktok.com/@amir.dz.b/video/7349009469948300577"/>
+    <published>2024-03-22T02:30:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@amir.dz.b/video/7351130555284507936</id>
+    <title>No Title</title>
+    <updated>2024-03-27T19:41:04+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@amir.dz.b/video/7351130555284507936"/>
+    <published>2024-03-27T19:41:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@amir.dz.b/video/7352363553833143584</id>
+    <title>No Title</title>
+    <updated>2024-03-31T03:26:12+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@amir.dz.b/video/7352363553833143584"/>
+    <published>2024-03-31T03:26:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@amir.dz.b/video/7352590516573211936</id>
+    <title>No Title</title>
+    <updated>2024-03-31T18:06:29+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@amir.dz.b/video/7352590516573211936"/>
+    <published>2024-03-31T18:06:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@amir.dz.b/video/7280673961858436385</id>
+    <title>#amirdz </title>
+    <updated>2023-09-19T22:53:38+00:00</updated>
+    <content>#amirdz </content>
+    <link href="https://tiktok.com/@amir.dz.b/video/7280673961858436385"/>
+    <published>2023-09-19T22:53:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@amir.dz.b/video/7311082736440069409</id>
+    <title>#amirdz </title>
+    <updated>2023-12-10T21:35:05+00:00</updated>
+    <content>#amirdz </content>
+    <link href="https://tiktok.com/@amir.dz.b/video/7311082736440069409"/>
+    <published>2023-12-10T21:35:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@amir.dz.b/video/7321008593526967585</id>
+    <title>#amirdz #أمير_ديزاد #🇩🇿 #algeria #اكسبلورexplore #alger #وهران #oran #الجزائر_تونس_المغرب #algerie </title>
+    <updated>2024-01-06T15:32:30+00:00</updated>
+    <content>#amirdz #أمير_ديزاد #🇩🇿 #algeria #اكسبلورexplore #alger #وهران #oran #الجزائر_تونس_المغرب #algerie </content>
+    <link href="https://tiktok.com/@amir.dz.b/video/7321008593526967585"/>
+    <published>2024-01-06T15:32:30+00:00</published>
+  </entry>
+</feed>

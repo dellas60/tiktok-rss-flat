@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@zdf966</id>
+  <title>zdf966 TikTok</title>
+  <updated>2024-04-02T09:40:21+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://github.com/dellas60/tiktok-rss-flat/rss/zdf966.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from zdf966</subtitle>
+  <entry>
+    <id>https://tiktok.com/@zdf966/video/7346262775125036294</id>
+    <title>No Title</title>
+    <updated>2024-03-14T16:51:32+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@zdf966/video/7346262775125036294"/>
+    <published>2024-03-14T16:51:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zdf966/video/7347014171399048454</id>
+    <title>No Title</title>
+    <updated>2024-03-16T17:27:21+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@zdf966/video/7347014171399048454"/>
+    <published>2024-03-16T17:27:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zdf966/video/7347814104804986117</id>
+    <title>لهذا سبب أولياء لازم يرافقو أولادهم للمساجد</title>
+    <updated>2024-03-18T21:11:36+00:00</updated>
+    <content>لهذا سبب أولياء لازم يرافقو أولادهم للمساجد</content>
+    <link href="https://tiktok.com/@zdf966/video/7347814104804986117"/>
+    <published>2024-03-18T21:11:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zdf966/video/7350726678575877382</id>
+    <title>No Title</title>
+    <updated>2024-03-26T17:33:47+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@zdf966/video/7350726678575877382"/>
+    <published>2024-03-26T17:33:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zdf966/video/7351417171811044613</id>
+    <title>سيدة جزائرية إفتتحت محل بسيط ومتواضع للبيع الحلويات من صنعها</title>
+    <updated>2024-03-28T14:13:15+00:00</updated>
+    <content>سيدة جزائرية إفتتحت محل بسيط ومتواضع للبيع الحلويات من صنعها</content>
+    <link href="https://tiktok.com/@zdf966/video/7351417171811044613"/>
+    <published>2024-03-28T14:13:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zdf966/video/7352142835296062725</id>
+    <title>No Title</title>
+    <updated>2024-03-30T13:09:12+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@zdf966/video/7352142835296062725"/>
+    <published>2024-03-30T13:09:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zdf966/video/7352269608964967685</id>
+    <title>خبر مفرح للجالية الجزائرية في المهجر الذين هم بدون وثائق</title>
+    <updated>2024-03-30T21:21:09+00:00</updated>
+    <content>خبر مفرح للجالية الجزائرية في المهجر الذين هم بدون وثائق</content>
+    <link href="https://tiktok.com/@zdf966/video/7352269608964967685"/>
+    <published>2024-03-30T21:21:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zdf966/video/7352635520100420870</id>
+    <title>No Title</title>
+    <updated>2024-03-31T21:01:04+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@zdf966/video/7352635520100420870"/>
+    <published>2024-03-31T21:01:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zdf966/video/7353145201491234054</id>
+    <title>No Title</title>
+    <updated>2024-04-02T05:58:55+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@zdf966/video/7353145201491234054"/>
+    <published>2024-04-02T05:58:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@zdf966/video/7353202269116009733</id>
+    <title>امراة تقف امام الكعبة لكن لا تستطيع رؤيتها</title>
+    <updated>2024-04-02T09:40:21+00:00</updated>
+    <content>امراة تقف امام الكعبة لكن لا تستطيع رؤيتها</content>
+    <link href="https://tiktok.com/@zdf966/video/7353202269116009733"/>
+    <published>2024-04-02T09:40:21+00:00</published>
+  </entry>
+</feed>
