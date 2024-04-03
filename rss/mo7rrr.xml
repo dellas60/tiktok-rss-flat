@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mo7rrr</id>
   <title>mo7rrr TikTok</title>
-  <updated>2024-04-03T20:20:47+00:00</updated>
+  <updated>2024-04-03T21:23:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mo7rrr</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mo7rrr/video/7352292520258227488</id>
-    <title>رسالة من عند أخي #pourtoi #france #usa #flypシ #fly #algerie #الجزائر #الشعب_الصيني_ماله_حل #رمضان </title>
-    <updated>2024-03-30T22:50:07+00:00</updated>
-    <content>رسالة من عند أخي #pourtoi #france #usa #flypシ #fly #algerie #الجزائر #الشعب_الصيني_ماله_حل #رمضان </content>
-    <link href="https://tiktok.com/@mo7rrr/video/7352292520258227488"/>
-    <published>2024-03-30T22:50:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mo7rrr/video/7352302128012021024</id>
     <title>Logement social en belgique #pourtoi #france #usa #flypシ #algerie #maroc #belgique #الجزائر #المغرب #</title>
@@ -83,6 +75,14 @@
     <content>#pourtoi #france #usa #flypシ #algerie #الشعب_الصيني_ماله_حل #الجزائر </content>
     <link href="https://tiktok.com/@mo7rrr/video/7353738380917689633"/>
     <published>2024-04-03T20:20:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mo7rrr/video/7353754535464127776</id>
+    <title>#pourtoi #france #usa #flypシ #algerie #الشعب_الصيني_ماله_حل #الجزائر #رمضان </title>
+    <updated>2024-04-03T21:23:32+00:00</updated>
+    <content>#pourtoi #france #usa #flypシ #algerie #الشعب_الصيني_ماله_حل #الجزائر #رمضان </content>
+    <link href="https://tiktok.com/@mo7rrr/video/7353754535464127776"/>
+    <published>2024-04-03T21:23:32+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@mo7rrr/video/7351898883066203424</id>

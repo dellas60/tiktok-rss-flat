@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-03T20:35:10+00:00</updated>
+  <updated>2024-04-03T21:19:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353686675819662610</id>
-    <title>بعد انسحابه من حفل إفطار للجالية المسلمة في البيت الأبيض ولقاء بايدن.. الطبيب الأمريكي من أصول عربية ثائر أحمد: لا يمكننا تناول الإفطار في البيت الأبيض بينما يتضور أهلنا جوعا في غزة. #الأخبار #البيت_الأبيض #بايدن #أمريكي #طبيب #عربي #الجالية</title>
-    <updated>2024-04-03T17:30:00+00:00</updated>
-    <content>بعد انسحابه من حفل إفطار للجالية المسلمة في البيت الأبيض ولقاء بايدن.. الطبيب الأمريكي من أصول عربية ثائر أحمد: لا يمكننا تناول الإفطار في البيت الأبيض بينما يتضور أهلنا جوعا في غزة. #الأخبار #البيت_الأبيض #بايدن #أمريكي #طبيب #عربي #الجالية</content>
-    <link href="https://tiktok.com/@aljazeera/video/7353686675819662610"/>
-    <published>2024-04-03T17:30:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353695162167512328</id>
     <title>هل تخفض ساعات العمل في بلدكم خلال شهر رمضان؟ #الجزيرة_في_رمضان #رمضان #فيديو #عمل #رمضان2024</title>
@@ -67,6 +59,14 @@
     <content>تصاعد وتيرة الاحتجاجات المطالبة بإسقاط حكومة نتنياهو وإبرام صفقة تبادل، والنيتو يعتزم إنشاء صندوق لدعم #أوكرانيا تحسبا لعودة #ترمب للرئاسة الخبر في قصة بـ #إيجاز #حرب_غزة </content>
     <link href="https://tiktok.com/@aljazeera/video/7353742055119539474"/>
     <published>2024-04-03T20:35:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7353753354956197127</id>
+    <title>كيف صمدت المباني في #تايوان أمام الزلزال العنيف الذي ضربها بقوة 7.7 درجات على مقياس ريختر؟ #شبكات #فاخوري #زلزال </title>
+    <updated>2024-04-03T21:19:01+00:00</updated>
+    <content>كيف صمدت المباني في #تايوان أمام الزلزال العنيف الذي ضربها بقوة 7.7 درجات على مقياس ريختر؟ #شبكات #فاخوري #زلزال </content>
+    <link href="https://tiktok.com/@aljazeera/video/7353753354956197127"/>
+    <published>2024-04-03T21:19:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
