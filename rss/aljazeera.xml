@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-03T13:47:14+00:00</updated>
+  <updated>2024-04-03T15:10:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353354583097298184</id>
-    <title>مع وجود معهد للدراسات الإسلامية تحت إشراف الموساد.. كيف تتمكن #إسرائيل  من السيطرة على طبقة من الدعاة المسلمين؟ المفكر الإسلامي أبو المقرئ الإدريسي يجيب #الجزيرة_في_رمضان  #الشريعة_والحياة_في_رمضان</title>
-    <updated>2024-04-02T22:30:00+00:00</updated>
-    <content>مع وجود معهد للدراسات الإسلامية تحت إشراف الموساد.. كيف تتمكن #إسرائيل  من السيطرة على طبقة من الدعاة المسلمين؟ المفكر الإسلامي أبو المقرئ الإدريسي يجيب #الجزيرة_في_رمضان  #الشريعة_والحياة_في_رمضان</content>
-    <link href="https://tiktok.com/@aljazeera/video/7353354583097298184"/>
-    <published>2024-04-02T22:30:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353349607847431431</id>
     <title>أول عربي يحصل على قلادة العلوم الوطنية الأمريكية.. من هو عالم الكيمياء المصري مصطفى السيد؟ #الجزيرة_بروفايل #بروفايل #مصر</title>
@@ -67,6 +59,14 @@
     <content>موظفو هيئة الخدمات الصحية يحاصرون مقر الهيئة في لندن احتجاجا على تزويد جيش الاحتلال الإسرائيلي بالتكنولوجيا المتطورة.. التفاصيل مع مراسلة الجزيرة مينة حربلو #الأخبار #لندن #تكنولوجيا #هيئة</content>
     <link href="https://tiktok.com/@aljazeera/video/7353636836322954514"/>
     <published>2024-04-03T13:47:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7353658368927501586</id>
+    <title>"تخطت قوته 7 درجات على مقياس ريختر".. زلزال يضرب العاصمة تايبيه وتحذيرات من موجات تسونامي #الأخبار #تسونامي #زلزال #كوارث #موجات</title>
+    <updated>2024-04-03T15:10:52+00:00</updated>
+    <content>"تخطت قوته 7 درجات على مقياس ريختر".. زلزال يضرب العاصمة تايبيه وتحذيرات من موجات تسونامي #الأخبار #تسونامي #زلزال #كوارث #موجات</content>
+    <link href="https://tiktok.com/@aljazeera/video/7353658368927501586"/>
+    <published>2024-04-03T15:10:52+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7350785714071637249</id>
