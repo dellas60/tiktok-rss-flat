@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@polemique_dz</id>
   <title>polemique_dz TikTok</title>
-  <updated>2024-04-02T21:47:16+00:00</updated>
+  <updated>2024-04-03T22:53:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from polemique_dz</subtitle>
-  <entry>
-    <id>https://tiktok.com/@polemique_dz/video/7348194893115903237</id>
-    <title>إيطاليا🇮🇹 عطلة عيد الفطر المبارك جدل كبير . #الجزائر #alger #fouryou #algerie🇩🇿 #الجزائر🇩🇿😘تيك_توك_ #الجيش_الوطني_الشعبي🇩🇿🇩🇿💪♥️ #algeria #الجالية_الجزائرية #ComfortSegredos </title>
-    <updated>2024-03-19T21:49:10+00:00</updated>
-    <content>إيطاليا🇮🇹 عطلة عيد الفطر المبارك جدل كبير . #الجزائر #alger #fouryou #algerie🇩🇿 #الجزائر🇩🇿😘تيك_توك_ #الجيش_الوطني_الشعبي🇩🇿🇩🇿💪♥️ #algeria #الجالية_الجزائرية #ComfortSegredos </content>
-    <link href="https://tiktok.com/@polemique_dz/video/7348194893115903237"/>
-    <published>2024-03-19T21:49:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@polemique_dz/video/7348934359111519493</id>
     <title>الجمارك الجزائرية تفرض إجراءات صارمة للحد من ظاهرة الكآبة  #الجزائر #الجزائر🇩🇿 #algerie🇩🇿 #الجزائر🇩🇿😘تيك_توك_ #algeria #alger #الجيش_الوطني_الشعبي🇩🇿🇩🇿💪♥️ #اكسبلور </title>
@@ -67,6 +59,14 @@
     <content>#الجزائر🇩🇿 #الجزائر🇩🇿😘تيك_توك_ #algerie🇩🇿 #alger #fepシ #الجزائر #maroco🇲🇦algeria🇩🇿tunisia🇹🇳 #المغرب🇲🇦تونس🇹🇳الجزائر🇩🇿 #الجيش_الوطني_الشعبي🇩🇿🇩🇿💪♥️ #fouryou @Polémique_Dz #ComfortSegredos </content>
     <link href="https://tiktok.com/@polemique_dz/video/7353389590243282182"/>
     <published>2024-04-02T21:47:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@polemique_dz/video/7353777626533596422</id>
+    <title>#الجزائر #algerie🇩🇿 #الجزائر #الجزائر🇩🇿 #fepシ #الجيش_الوطني_الشعبي🇩🇿🇩🇿💪♥️ #alger #المغرب🇲🇦تونس🇹🇳الجزائر🇩🇿 #algeria geria#ComfortSegredos </title>
+    <updated>2024-04-03T22:53:01+00:00</updated>
+    <content>#الجزائر #algerie🇩🇿 #الجزائر #الجزائر🇩🇿 #fepシ #الجيش_الوطني_الشعبي🇩🇿🇩🇿💪♥️ #alger #المغرب🇲🇦تونس🇹🇳الجزائر🇩🇿 #algeria geria#ComfortSegredos </content>
+    <link href="https://tiktok.com/@polemique_dz/video/7353777626533596422"/>
+    <published>2024-04-03T22:53:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@polemique_dz/video/7264574934515584261</id>
