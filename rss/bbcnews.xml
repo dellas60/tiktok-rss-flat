@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-03T11:15:00+00:00</updated>
+  <updated>2024-04-03T14:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353278560930417952</id>
-    <title>Three British civilians were among the seven aid workers killed in an Israeli strike on a Gaza aid convoy, the charity World Central Kitchen has confirmed. #Israel  #Gaza  #IsraelGaza  #WorldCentralKitchen  #News  #BBCNews</title>
-    <updated>2024-04-02T14:36:27+00:00</updated>
-    <content>Three British civilians were among the seven aid workers killed in an Israeli strike on a Gaza aid convoy, the charity World Central Kitchen has confirmed. #Israel  #Gaza  #IsraelGaza  #WorldCentralKitchen  #News  #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353278560930417952"/>
-    <published>2024-04-02T14:36:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353305154726153505</id>
-    <title>The ‘car cave’ in Gwynedd, Wales, went viral on social media - and now a group of cavers have been tidying up the mess left behind by influencers. #Gwynedd  #Wales  #Caving  #CarCave  #Cave  #UKCaves  #Abandoned  #ExploreTheUK  #Hiking  #Adventure  #BBCNe</title>
-    <updated>2024-04-02T16:19:37+00:00</updated>
-    <content>The ‘car cave’ in Gwynedd, Wales, went viral on social media - and now a group of cavers have been tidying up the mess left behind by influencers. #Gwynedd  #Wales  #Caving  #CarCave  #Cave  #UKCaves  #Abandoned  #ExploreTheUK  #Hiking  #Adventure  #BBCNe</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353305154726153505"/>
-    <published>2024-04-02T16:19:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353311156091505953</id>
     <title>Why is it raining so much? #Rain #Weather #BritishWeather #Wet #Forecast #WeatherForecast #UKWeather #Pershore #Plymouth #Salisbury #Heathrow #News #BBCNews</title>
@@ -91,5 +75,21 @@
     <content>Kirsten Dunst said she ‘didn’t even think to ask’ to be paid in line with the male actor. #KirstenDunst #BringItOn #Spiderman #SpidermanMovie #Actor #Movies #Hollywood #Film #Cinema #FilmTok #00sFilm #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7353587683496611104"/>
     <published>2024-04-03T11:15:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353644120654482721</id>
+    <title>There are strict rules in the UK for adverts promoting low-calorie diets.#KatiePrice#Dieting#Diet#Health#HealthyEating#Nutrition#AdvertisingStandardsAuthority#ASA#BBCNews</title>
+    <updated>2024-04-03T14:15:01+00:00</updated>
+    <content>There are strict rules in the UK for adverts promoting low-calorie diets.#KatiePrice#Dieting#Diet#Health#HealthyEating#Nutrition#AdvertisingStandardsAuthority#ASA#BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353644120654482721"/>
+    <published>2024-04-03T14:15:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353635374364724513</id>
+    <title>He was convicted of taking images of a total of 15 women from social media and uploading to porn websites. #DeepFakes #Cambridge #AI #BBCNews</title>
+    <updated>2024-04-03T14:30:00+00:00</updated>
+    <content>He was convicted of taking images of a total of 15 women from social media and uploading to porn websites. #DeepFakes #Cambridge #AI #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353635374364724513"/>
+    <published>2024-04-03T14:30:00+00:00</published>
   </entry>
 </feed>
