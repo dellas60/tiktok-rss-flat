@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-03T19:55:00+00:00</updated>
+  <updated>2024-04-03T20:35:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353666933373324551</id>
-    <title>طفلة فلسطينية تبكي بعد أن صادفت شابا يشبه والدها الذي فقدت آثاره في أثناء نزوحهم إلى جنوب قطاع غزة. #فيديو #طفلة #حرب_غزة #بكاء #نزوح #غزة #فلسطين #والد</title>
-    <updated>2024-04-03T17:00:00+00:00</updated>
-    <content>طفلة فلسطينية تبكي بعد أن صادفت شابا يشبه والدها الذي فقدت آثاره في أثناء نزوحهم إلى جنوب قطاع غزة. #فيديو #طفلة #حرب_غزة #بكاء #نزوح #غزة #فلسطين #والد</content>
-    <link href="https://tiktok.com/@aljazeera/video/7353666933373324551"/>
-    <published>2024-04-03T17:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353686675819662610</id>
     <title>بعد انسحابه من حفل إفطار للجالية المسلمة في البيت الأبيض ولقاء بايدن.. الطبيب الأمريكي من أصول عربية ثائر أحمد: لا يمكننا تناول الإفطار في البيت الأبيض بينما يتضور أهلنا جوعا في غزة. #الأخبار #البيت_الأبيض #بايدن #أمريكي #طبيب #عربي #الجالية</title>
@@ -69,12 +61,12 @@
     <published>2024-04-03T19:55:00+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@aljazeera/video/7350785714071637249</id>
-    <title>شبكات | أمريكا تخذل نتنياهو في مجلس الأمن #شبكات #أحمد_فاخوري #مجلس_الأمن #نتنياهو</title>
-    <updated>2024-03-26T22:15:00+00:00</updated>
-    <content>شبكات | أمريكا تخذل نتنياهو في مجلس الأمن #شبكات #أحمد_فاخوري #مجلس_الأمن #نتنياهو</content>
-    <link href="https://tiktok.com/@aljazeera/video/7350785714071637249"/>
-    <published>2024-03-26T22:15:00+00:00</published>
+    <id>https://tiktok.com/@aljazeera/video/7353742055119539474</id>
+    <title>تصاعد وتيرة الاحتجاجات المطالبة بإسقاط حكومة نتنياهو وإبرام صفقة تبادل، والنيتو يعتزم إنشاء صندوق لدعم #أوكرانيا تحسبا لعودة #ترمب للرئاسة الخبر في قصة بـ #إيجاز #حرب_غزة </title>
+    <updated>2024-04-03T20:35:10+00:00</updated>
+    <content>تصاعد وتيرة الاحتجاجات المطالبة بإسقاط حكومة نتنياهو وإبرام صفقة تبادل، والنيتو يعتزم إنشاء صندوق لدعم #أوكرانيا تحسبا لعودة #ترمب للرئاسة الخبر في قصة بـ #إيجاز #حرب_غزة </content>
+    <link href="https://tiktok.com/@aljazeera/video/7353742055119539474"/>
+    <published>2024-04-03T20:35:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
@@ -91,5 +83,13 @@
     <content>قال رئيس الوزراء الإسرائيلي بنيامين نتنياهو إن قناة الجزيرة ألحقت الضرر بأمن إسرائيل، وشاركت فعليا في عملية 7 أكتوبر وحرضت على جنودنا. مؤكدا أنه لن تبث قناة الجزيرة من إسرائيل بعد اليوم، وأنه ينوي التحرك فورا وفقا للقانون الجديد لوقف نشاط قناة الجزيرة. #ا</content>
     <link href="https://tiktok.com/@aljazeera/video/7352970162657611026"/>
     <published>2024-04-01T18:39:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7353320124528741640</id>
+    <title>طبق “اللازانيا” على الطريقة الغزية #فيديو #حرب_غزة</title>
+    <updated>2024-04-02T18:00:00+00:00</updated>
+    <content>طبق “اللازانيا” على الطريقة الغزية #فيديو #حرب_غزة</content>
+    <link href="https://tiktok.com/@aljazeera/video/7353320124528741640"/>
+    <published>2024-04-02T18:00:00+00:00</published>
   </entry>
 </feed>
