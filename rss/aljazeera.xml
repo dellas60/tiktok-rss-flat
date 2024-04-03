@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-03T18:00:00+00:00</updated>
+  <updated>2024-04-03T18:35:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353448622148635922</id>
-    <title>بايدن: سأواصل الضغط على إسرائيل لبذل المزيد من الجهد لتسهيل المساعدات إلى غزة 🚨 بايدن: أشعر بالغضب والحزن بسبب وفاة 7 من العاملين في المجال الإنساني من المطبخ المركزي العالمي في غزة #عاجل #بايدن #biden #إسرائيل #حرب_غزة #غزة </title>
-    <updated>2024-04-03T01:36:25+00:00</updated>
-    <content>بايدن: سأواصل الضغط على إسرائيل لبذل المزيد من الجهد لتسهيل المساعدات إلى غزة 🚨 بايدن: أشعر بالغضب والحزن بسبب وفاة 7 من العاملين في المجال الإنساني من المطبخ المركزي العالمي في غزة #عاجل #بايدن #biden #إسرائيل #حرب_غزة #غزة </content>
-    <link href="https://tiktok.com/@aljazeera/video/7353448622148635922"/>
-    <published>2024-04-03T01:36:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353636836322954514</id>
     <title>موظفو هيئة الخدمات الصحية يحاصرون مقر الهيئة في لندن احتجاجا على تزويد جيش الاحتلال الإسرائيلي بالتكنولوجيا المتطورة.. التفاصيل مع مراسلة الجزيرة مينة حربلو #الأخبار #لندن #تكنولوجيا #هيئة</title>
@@ -67,6 +59,14 @@
     <content>هل تخفض ساعات العمل في بلدكم خلال شهر رمضان؟ #الجزيرة_في_رمضان #رمضان #فيديو #عمل #رمضان2024</content>
     <link href="https://tiktok.com/@aljazeera/video/7353695162167512328"/>
     <published>2024-04-03T18:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7353695589747477767</id>
+    <title>الجزيرة تحصل على الرسالة التي سلمها الطبيب ثائر أحمد للرئيس الأمريكي جو بايدن ونائبته كامالا هاريس لطفلة نازحة في رفح فقدت عائلتها، تدعى هديل النجار. #فيديو #طفلة #رسالة #بايدن #أمريكا #رفح</title>
+    <updated>2024-04-03T18:35:00+00:00</updated>
+    <content>الجزيرة تحصل على الرسالة التي سلمها الطبيب ثائر أحمد للرئيس الأمريكي جو بايدن ونائبته كامالا هاريس لطفلة نازحة في رفح فقدت عائلتها، تدعى هديل النجار. #فيديو #طفلة #رسالة #بايدن #أمريكا #رفح</content>
+    <link href="https://tiktok.com/@aljazeera/video/7353695589747477767"/>
+    <published>2024-04-03T18:35:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7350785714071637249</id>
