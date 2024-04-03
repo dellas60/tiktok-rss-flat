@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-03T15:55:00+00:00</updated>
+  <updated>2024-04-03T17:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353410866106092807</id>
-    <title>القناة 12 الإسرائيلية: دهس 4 من عناصر الشرطة في بلدة كوخاف يائير وسط إسرائيل إصابة أحدهم خطيرة #عاجل #حرب_غزة #إسرائيل #كوخاف </title>
-    <updated>2024-04-02T23:10:01+00:00</updated>
-    <content>القناة 12 الإسرائيلية: دهس 4 من عناصر الشرطة في بلدة كوخاف يائير وسط إسرائيل إصابة أحدهم خطيرة #عاجل #حرب_غزة #إسرائيل #كوخاف </content>
-    <link href="https://tiktok.com/@aljazeera/video/7353410866106092807"/>
-    <published>2024-04-02T23:10:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353421518799441170</id>
     <title>الشرطة الإسرائيلية: عناصر الشرطة قتلت منفذ عملية الدهس قرب بلدة كوخاف يائير وسط إسرائيل #عاجل #حرب_غزة #إسرائيل </title>
@@ -67,6 +59,14 @@
     <content>مشهد مهيب للمعتمرين خلال أداء المناسك في العشر الأواخر من شهر رمضان المبارك #فيديو #رمضان #رمضان2024 #الجزيرة_في_رمضان #العمرة</content>
     <link href="https://tiktok.com/@aljazeera/video/7353658740064668936"/>
     <published>2024-04-03T15:55:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7353666933373324551</id>
+    <title>طفلة فلسطينية تبكي بعد أن صادفت شابا يشبه والدها الذي فقدت آثاره في أثناء نزوحهم إلى جنوب قطاع غزة. #فيديو #طفلة #حرب_غزة #بكاء #نزوح #غزة #فلسطين #والد</title>
+    <updated>2024-04-03T17:00:00+00:00</updated>
+    <content>طفلة فلسطينية تبكي بعد أن صادفت شابا يشبه والدها الذي فقدت آثاره في أثناء نزوحهم إلى جنوب قطاع غزة. #فيديو #طفلة #حرب_غزة #بكاء #نزوح #غزة #فلسطين #والد</content>
+    <link href="https://tiktok.com/@aljazeera/video/7353666933373324551"/>
+    <published>2024-04-03T17:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7350785714071637249</id>
