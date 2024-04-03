@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-03T15:00:00+00:00</updated>
+  <updated>2024-04-03T15:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353331880889994529</id>
-    <title>The Criminal Justice Bill could criminalise rough sleepers if they cause a "nuisance", including "excessive smells". #Homeless #Homelessness #RoughSleeping #GillianKeegan #SuellaBraverman #CriminalJusticeBill #UKPolitics #UKLaw #HouseOfCommons #News #BBCN</title>
-    <updated>2024-04-02T18:03:20+00:00</updated>
-    <content>The Criminal Justice Bill could criminalise rough sleepers if they cause a "nuisance", including "excessive smells". #Homeless #Homelessness #RoughSleeping #GillianKeegan #SuellaBraverman #CriminalJusticeBill #UKPolitics #UKLaw #HouseOfCommons #News #BBCN</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353331880889994529"/>
-    <published>2024-04-02T18:03:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353343031669427488</id>
     <title>A number of people - including the nightclub manager - have had warrants out for their arrest in connection with the fire. #Istanbul #Turkey #MasqueradeClub #IstanbulNightclub #NightclubFire #Nightclub #Fire #News #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>The Nigerian music star who just finished an East African tour said the fake report was ‘extremely irresponsible’. #Davido #Tour #Nigeria #Afrobeat #Afrobeats #PrivateJet #K24TV #Kenya #EastAfrica #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7353645391247592737"/>
     <published>2024-04-03T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353654305770999073</id>
+    <title>Would you want to look after an elephant? #Botswana #Germany #Elephant #Hunting #Angola #Mozambique #BBCNews</title>
+    <updated>2024-04-03T15:30:00+00:00</updated>
+    <content>Would you want to look after an elephant? #Botswana #Germany #Elephant #Hunting #Angola #Mozambique #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353654305770999073"/>
+    <published>2024-04-03T15:30:00+00:00</published>
   </entry>
 </feed>
