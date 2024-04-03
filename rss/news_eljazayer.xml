@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@news_eljazayer</id>
   <title>news_eljazayer TikTok</title>
-  <updated>2024-04-03T12:52:08+00:00</updated>
+  <updated>2024-04-03T11:53:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from news_eljazayer</subtitle>
+  <entry>
+    <id>https://tiktok.com/@news_eljazayer/video/7352888257589300513</id>
+    <title>@Mokhetar 3a9al  #algeria #dz #تلمسان #😱 #تحياالجزائر #algeria #fyp #kabyle #newsالجزائر #dzpower #58wilaya #duo #algeria #oran #الجزائر #الجزائر #newsالجزائر #😱 </title>
+    <updated>2024-04-01T13:21:50+00:00</updated>
+    <content>@Mokhetar 3a9al  #algeria #dz #تلمسان #😱 #تحياالجزائر #algeria #fyp #kabyle #newsالجزائر #dzpower #58wilaya #duo #algeria #oran #الجزائر #الجزائر #newsالجزائر #😱 </content>
+    <link href="https://tiktok.com/@news_eljazayer/video/7352888257589300513"/>
+    <published>2024-04-01T13:21:50+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@news_eljazayer/video/7353007072318917920</id>
     <title>#newsالجزائر #😱 #الجزائر #oran #algeria #duo #58wilaya #dzpower #kabyle #تحياالجزائر #i #incroyable #dz #58wilaya #09 #dz #58wilaya #oran </title>
@@ -59,14 +67,6 @@
     <content>#news #newsالجزائر #dzpower #fyp #😱 #incroyable #58wilaya #تلمسان #09 #algeria #dans #تبون #algeria #duo #😱 #fyp #الجزائر #newsالجزائر </content>
     <link href="https://tiktok.com/@news_eljazayer/video/7353607553609239841"/>
     <published>2024-04-03T11:53:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@news_eljazayer/video/7353622759848594721</id>
-    <title>#newsالجزائر #الجزائر #fyp #newsالجزائر #😱 #الجزائر #algeria #news #dzpower #incroyable #tiziouzou #oran #dz #oran #duo </title>
-    <updated>2024-04-03T12:52:08+00:00</updated>
-    <content>#newsالجزائر #الجزائر #fyp #newsالجزائر #😱 #الجزائر #algeria #news #dzpower #incroyable #tiziouzou #oran #dz #oran #duo </content>
-    <link href="https://tiktok.com/@news_eljazayer/video/7353622759848594721"/>
-    <published>2024-04-03T12:52:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@news_eljazayer/video/7244903164032470299</id>
