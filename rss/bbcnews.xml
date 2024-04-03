@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-03T17:35:00+00:00</updated>
+  <updated>2024-04-03T18:15:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353545140637601057</id>
-    <title>The 7.4 magnitude earthquake set off tsunami warnings in Taiwan and in neighbouring countries. Some of these have since been retracted. #Taiwan  #Hualien  #HualienCity  #Taipei  #Earthquake  #Tsunami  #Aftershocks  #News  #BBCNews</title>
-    <updated>2024-04-03T07:51:27+00:00</updated>
-    <content>The 7.4 magnitude earthquake set off tsunami warnings in Taiwan and in neighbouring countries. Some of these have since been retracted. #Taiwan  #Hualien  #HualienCity  #Taipei  #Earthquake  #Tsunami  #Aftershocks  #News  #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353545140637601057"/>
-    <published>2024-04-03T07:51:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353576714619931936</id>
     <title>At least seven people have died and more than 70 are trapped in collapsed buildings following a 7.4 magnitude earthquake in Taiwan. #Taiwan #Hualien  #HualienCity #Taipei #Earthquake #Tsunami #Aftershocks #News #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>"I've been offered tons of trans roles, and I just don't want to do it.” #HunterSchafer #Euphoria #Transgender #Trans #FilmTok #HBO #GQ #Jules #MovieTok #TV #TVTok #News #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7353690729710882081"/>
     <published>2024-04-03T17:35:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353695598740000032</id>
+    <title>The Teaching Regulation Agency's panel found that "there is a real risk of Ms Morris repeating her offending behaviour" and noted she was "deliberate and sustained". #DeputyHead#Teacher#Teaching#Safeguard#Wigan#BBCNews</title>
+    <updated>2024-04-03T18:15:00+00:00</updated>
+    <content>The Teaching Regulation Agency's panel found that "there is a real risk of Ms Morris repeating her offending behaviour" and noted she was "deliberate and sustained". #DeputyHead#Teacher#Teaching#Safeguard#Wigan#BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353695598740000032"/>
+    <published>2024-04-03T18:15:00+00:00</published>
   </entry>
 </feed>
