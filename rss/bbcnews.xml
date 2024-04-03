@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-03T19:00:00+00:00</updated>
+  <updated>2024-04-03T19:45:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353584744061242656</id>
-    <title>What do you think of the National Minimum Wage? #PayRise  #MinimumWage  #LessHours  #UK  #PayMe  #FairPay  #BBCNews</title>
-    <updated>2024-04-03T10:45:00+00:00</updated>
-    <content>What do you think of the National Minimum Wage? #PayRise  #MinimumWage  #LessHours  #UK  #PayMe  #FairPay  #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353584744061242656"/>
-    <published>2024-04-03T10:45:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353587683496611104</id>
     <title>Kirsten Dunst said she ‘didn’t even think to ask’ to be paid in line with the male actor. #KirstenDunst #BringItOn #Spiderman #SpidermanMovie #Actor #Movies #Hollywood #Film #Cinema #FilmTok #00sFilm #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>TT: Do you think companies should be able to use artists’ voices to make AI music? #AI #AIMusic #ArtificialIntelligence #BillieEilish #NickiMinaj  #KimPetras  #SamSmith #BobMarley #KatyPerry #ArtistsRightAlliance #MusicTok #TikTokMusic #MusicTikTok #Music</content>
     <link href="https://tiktok.com/@bbcnews/video/7353713657022319905"/>
     <published>2024-04-03T19:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353716970329509153</id>
+    <title>Don’t count your chickens just yet… any proposed changes wouldn’t come into effect until 2033. #AnimalWelfare #Chickens #FreeRange #Organic#Farming #Scotland #ScottishGovernment #BBCNews</title>
+    <updated>2024-04-03T19:45:00+00:00</updated>
+    <content>Don’t count your chickens just yet… any proposed changes wouldn’t come into effect until 2033. #AnimalWelfare #Chickens #FreeRange #Organic#Farming #Scotland #ScottishGovernment #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353716970329509153"/>
+    <published>2024-04-03T19:45:00+00:00</published>
   </entry>
 </feed>
