@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-03T19:05:00+00:00</updated>
+  <updated>2024-04-03T19:35:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353658368927501586</id>
-    <title>"تخطت قوته 7 درجات على مقياس ريختر".. زلزال يضرب العاصمة تايبيه وتحذيرات من موجات تسونامي #الأخبار #تسونامي #زلزال #كوارث #موجات</title>
-    <updated>2024-04-03T15:10:52+00:00</updated>
-    <content>"تخطت قوته 7 درجات على مقياس ريختر".. زلزال يضرب العاصمة تايبيه وتحذيرات من موجات تسونامي #الأخبار #تسونامي #زلزال #كوارث #موجات</content>
-    <link href="https://tiktok.com/@aljazeera/video/7353658368927501586"/>
-    <published>2024-04-03T15:10:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353658740064668936</id>
     <title>مشهد مهيب للمعتمرين خلال أداء المناسك في العشر الأواخر من شهر رمضان المبارك #فيديو #رمضان #رمضان2024 #الجزيرة_في_رمضان #العمرة</title>
@@ -67,6 +59,14 @@
     <content>الولايات المتحدة وألمانيا وحدهما تستحوذان على نحو 99% من واردات إسرائيل من السلاح.. أرقام عن واردات تل أبيب العسكرية #الأخبار #سلاح #ألمانيا #أمريكا #تل_أبيب #إسرائيل</content>
     <link href="https://tiktok.com/@aljazeera/video/7353706670523976978"/>
     <published>2024-04-03T19:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7353707184825371912</id>
+    <title>مصادر للجزيرة تكشف أن إفطار الرئيس الأمريكي مع شخصيات من العرب والمسلمين بينهم أطباء عادوا من غزة شهد انسحابا لعدد من الحضور #الأخبار #إفطار #أمريكا #عرب #بايدن #رئيس_أمريكا #غزة #حرب_غزة</title>
+    <updated>2024-04-03T19:35:00+00:00</updated>
+    <content>مصادر للجزيرة تكشف أن إفطار الرئيس الأمريكي مع شخصيات من العرب والمسلمين بينهم أطباء عادوا من غزة شهد انسحابا لعدد من الحضور #الأخبار #إفطار #أمريكا #عرب #بايدن #رئيس_أمريكا #غزة #حرب_غزة</content>
+    <link href="https://tiktok.com/@aljazeera/video/7353707184825371912"/>
+    <published>2024-04-03T19:35:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7350785714071637249</id>
