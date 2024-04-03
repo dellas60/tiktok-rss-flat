@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-03T17:00:00+00:00</updated>
+  <updated>2024-04-03T17:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353421518799441170</id>
-    <title>الشرطة الإسرائيلية: عناصر الشرطة قتلت منفذ عملية الدهس قرب بلدة كوخاف يائير وسط إسرائيل #عاجل #حرب_غزة #إسرائيل </title>
-    <updated>2024-04-02T23:51:23+00:00</updated>
-    <content>الشرطة الإسرائيلية: عناصر الشرطة قتلت منفذ عملية الدهس قرب بلدة كوخاف يائير وسط إسرائيل #عاجل #حرب_غزة #إسرائيل </content>
-    <link href="https://tiktok.com/@aljazeera/video/7353421518799441170"/>
-    <published>2024-04-02T23:51:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353431204483386625</id>
     <title>الإسعاف الإسرائيلي يعلن إصابة 4 من الشرطة الإسرائيلية أحدهم بجراح خطرة بعملية دهس غرب قلقيلية شمال الضفة الغربية.. ما المعلومات الأولية حتى الآن؟ #الأخبار  #حرب_غزة #إسرائيل #الضفة_الغربية #قلقيليا</title>
@@ -67,6 +59,14 @@
     <content>طفلة فلسطينية تبكي بعد أن صادفت شابا يشبه والدها الذي فقدت آثاره في أثناء نزوحهم إلى جنوب قطاع غزة. #فيديو #طفلة #حرب_غزة #بكاء #نزوح #غزة #فلسطين #والد</content>
     <link href="https://tiktok.com/@aljazeera/video/7353666933373324551"/>
     <published>2024-04-03T17:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7353686675819662610</id>
+    <title>بعد انسحابه من حفل إفطار للجالية المسلمة في البيت الأبيض ولقاء بايدن.. الطبيب الأمريكي من أصول عربية ثائر أحمد: لا يمكننا تناول الإفطار في البيت الأبيض بينما يتضور أهلنا جوعا في غزة. #الأخبار #البيت_الأبيض #بايدن #أمريكي #طبيب #عربي #الجالية</title>
+    <updated>2024-04-03T17:30:00+00:00</updated>
+    <content>بعد انسحابه من حفل إفطار للجالية المسلمة في البيت الأبيض ولقاء بايدن.. الطبيب الأمريكي من أصول عربية ثائر أحمد: لا يمكننا تناول الإفطار في البيت الأبيض بينما يتضور أهلنا جوعا في غزة. #الأخبار #البيت_الأبيض #بايدن #أمريكي #طبيب #عربي #الجالية</content>
+    <link href="https://tiktok.com/@aljazeera/video/7353686675819662610"/>
+    <published>2024-04-03T17:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7350785714071637249</id>
