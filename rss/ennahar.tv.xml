@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ennahar.tv</id>
   <title>ennahar.tv TikTok</title>
-  <updated>2024-04-02T20:12:25+00:00</updated>
+  <updated>2024-04-03T00:28:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ennahar.tv</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7352597197655002373</id>
-    <title>📌_فتحي.. "حياتي دمرت خدمت الحبس 19 مرة !" #ennahar_tv📺 #خليها_على_ربي #alger🇩🇿 #النهار </title>
-    <updated>2024-03-31T18:32:22+00:00</updated>
-    <content>📌_فتحي.. "حياتي دمرت خدمت الحبس 19 مرة !" #ennahar_tv📺 #خليها_على_ربي #alger🇩🇿 #النهار </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7352597197655002373"/>
-    <published>2024-03-31T18:32:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7352664628012272902</id>
     <title>📌قرار جديد.. ماليوم مانزيدش نشوفك فالسطاد!! #الرهان الحلقة -21- https://youtu.be/_2GKY-gqDoY #ennahar_tv📺 #النهار #alger🇩🇿 #الرهان </title>
@@ -67,6 +59,14 @@
     <content>مفاجأة للضابطة منال😲😲 #الرهان الحلقة -23- 👇👇 https://youtu.be/TusKAATYKAQ #النهار #ennahar_tv📺 #الرهان </content>
     <link href="https://tiktok.com/@ennahar.tv/video/7353365157189258502"/>
     <published>2024-04-02T20:12:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7353431139463286022</id>
+    <title>📌#عزيز_توغار: هكذا تلقيت خبر وفـ.اة والدتي وكنت منشغلا بالتمثيل ولم أستطيع حضور الجنازة #الرهان #ennahar_tv📺 #alger🇩🇿 </title>
+    <updated>2024-04-03T00:28:29+00:00</updated>
+    <content>📌#عزيز_توغار: هكذا تلقيت خبر وفـ.اة والدتي وكنت منشغلا بالتمثيل ولم أستطيع حضور الجنازة #الرهان #ennahar_tv📺 #alger🇩🇿 </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7353431139463286022"/>
+    <published>2024-04-03T00:28:29+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7213842316166024453</id>
