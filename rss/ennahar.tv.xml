@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ennahar.tv</id>
   <title>ennahar.tv TikTok</title>
-  <updated>2024-04-03T00:28:29+00:00</updated>
+  <updated>2024-04-03T18:35:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ennahar.tv</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7352664628012272902</id>
-    <title>📌قرار جديد.. ماليوم مانزيدش نشوفك فالسطاد!! #الرهان الحلقة -21- https://youtu.be/_2GKY-gqDoY #ennahar_tv📺 #النهار #alger🇩🇿 #الرهان </title>
-    <updated>2024-03-31T22:54:01+00:00</updated>
-    <content>📌قرار جديد.. ماليوم مانزيدش نشوفك فالسطاد!! #الرهان الحلقة -21- https://youtu.be/_2GKY-gqDoY #ennahar_tv📺 #النهار #alger🇩🇿 #الرهان </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7352664628012272902"/>
-    <published>2024-03-31T22:54:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7352978142522346757</id>
     <title>📌سالم بالدموع!! " الدنيا فانية ملي راحو شوابين وليت مغبون" #alger🇩🇿 #النهار #ennahar_tv📺 #خليها_على_ربي </title>
@@ -67,6 +59,14 @@
     <content>📌#عزيز_توغار: هكذا تلقيت خبر وفـ.اة والدتي وكنت منشغلا بالتمثيل ولم أستطيع حضور الجنازة #الرهان #ennahar_tv📺 #alger🇩🇿 </content>
     <link href="https://tiktok.com/@ennahar.tv/video/7353431139463286022"/>
     <published>2024-04-03T00:28:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7353711307901881606</id>
+    <title>تشاهدون سهرة اليوم.. الحلقة الأخيرة من #مسلسل_الرهان  كيف سينتهي صراع العقل والقلب.. وما مصير #عزيز_توغار كونوا في الموعد📺😉 #ennahar_tv📺 #الرهان #alger🇩🇿 </title>
+    <updated>2024-04-03T18:35:41+00:00</updated>
+    <content>تشاهدون سهرة اليوم.. الحلقة الأخيرة من #مسلسل_الرهان  كيف سينتهي صراع العقل والقلب.. وما مصير #عزيز_توغار كونوا في الموعد📺😉 #ennahar_tv📺 #الرهان #alger🇩🇿 </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7353711307901881606"/>
+    <published>2024-04-03T18:35:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7213842316166024453</id>
