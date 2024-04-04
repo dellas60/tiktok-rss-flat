@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-04T11:15:41+00:00</updated>
+  <updated>2024-04-04T11:50:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353654305770999073</id>
-    <title>Would you want to look after an elephant? #Botswana #Germany #Elephant #Hunting #Angola #Mozambique #BBCNews</title>
-    <updated>2024-04-03T15:30:00+00:00</updated>
-    <content>Would you want to look after an elephant? #Botswana #Germany #Elephant #Hunting #Angola #Mozambique #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353654305770999073"/>
-    <published>2024-04-03T15:30:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353683381042941216</id>
     <title>Police said the 23-year-old’s behaviour was “unacceptable”. #Wiltshire#England#Crime#Motorbike#Motorcycle#Motorcyclist#BikeTok#PoliceChase#BBCNews</title>
@@ -91,5 +83,13 @@
     <content>Authorities said there were no injuries after passengers and crew reportedly jumped into the sea to escape the fire. #Thailand  #Ferry  #Fire  #Blaze  #KohTao  #SuratThani  #News  #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7353968700598340896"/>
     <published>2024-04-04T11:15:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353978047319624993</id>
+    <title>Residents of Hualien recounted how the 7.4 magnitude earthquake shook homes, killing nine and injuring more than 1,000. #Earthquake  #NaturalDisasters  #Quake  #Taiwan  #Hualien  #HualienCity  #News  #BBCNews</title>
+    <updated>2024-04-04T11:50:47+00:00</updated>
+    <content>Residents of Hualien recounted how the 7.4 magnitude earthquake shook homes, killing nine and injuring more than 1,000. #Earthquake  #NaturalDisasters  #Quake  #Taiwan  #Hualien  #HualienCity  #News  #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353978047319624993"/>
+    <published>2024-04-04T11:50:47+00:00</published>
   </entry>
 </feed>
