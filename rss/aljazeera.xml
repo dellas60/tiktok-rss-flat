@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-04T14:30:00+00:00</updated>
+  <updated>2024-04-04T14:55:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353761659967753488</id>
-    <title>فلسطينية تتحدث عن معاناة الحصول على المياه، ما يضطرهم إلى التيمم بالرمل لعدم توفرها للوضوء، في خيام النزوح برفح جنوب قطاع غزة. #فيديو #فلسطينية #مياه #وضوء #نزوح #حرب_غزة</title>
-    <updated>2024-04-03T22:10:00+00:00</updated>
-    <content>فلسطينية تتحدث عن معاناة الحصول على المياه، ما يضطرهم إلى التيمم بالرمل لعدم توفرها للوضوء، في خيام النزوح برفح جنوب قطاع غزة. #فيديو #فلسطينية #مياه #وضوء #نزوح #حرب_غزة</content>
-    <link href="https://tiktok.com/@aljazeera/video/7353761659967753488"/>
-    <published>2024-04-03T22:10:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353762562061765904</id>
     <title>محاولة اقتحام منزل نتنياهو والشرطة تعتقل متظاهرين إسرائيليين يطالبون بتنحي نتنياهو وإبرام صفقة لإعادة الأسرى من قطاع غزة  #شبكات  #حرب_غزة #فاخوري #نتنياهو #صفقة #اقتحام</title>
@@ -67,6 +59,14 @@
     <content>صالح الجعفراوي مع أحد الأطباء المتطوعين من الكويت: بيني وبين إسرائيل ثأر #فيديو #حرب_غزة #غزة #فلسطين #GAZA</content>
     <link href="https://tiktok.com/@aljazeera/video/7354003433088716050"/>
     <published>2024-04-04T14:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354005660889058578</id>
+    <title>25 مليون مسلم يعيشون في #الصين ينتمون إلى 10 أقليّات أكثرها تعدادا أقليتا "الخوي والإيغور" ويمثل شهر #رمضان مناسبة لتأكيد الصلة بهويتهم الدينية والثقافيّة #الأخبار #الصين #china</title>
+    <updated>2024-04-04T14:55:00+00:00</updated>
+    <content>25 مليون مسلم يعيشون في #الصين ينتمون إلى 10 أقليّات أكثرها تعدادا أقليتا "الخوي والإيغور" ويمثل شهر #رمضان مناسبة لتأكيد الصلة بهويتهم الدينية والثقافيّة #الأخبار #الصين #china</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354005660889058578"/>
+    <published>2024-04-04T14:55:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
