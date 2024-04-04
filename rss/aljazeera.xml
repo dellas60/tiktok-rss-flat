@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-04T19:03:07+00:00</updated>
+  <updated>2024-04-04T20:05:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354047889443966216</id>
-    <title>الكابينت الإسرائيلي يمنح وفد التفاوض لإبرام صفقة التبادل صلاحيات إضافية #الأخبار #حرب_غزة #إسرائيل #مفاوضات</title>
-    <updated>2024-04-04T16:22:41+00:00</updated>
-    <content>الكابينت الإسرائيلي يمنح وفد التفاوض لإبرام صفقة التبادل صلاحيات إضافية #الأخبار #حرب_غزة #إسرائيل #مفاوضات</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354047889443966216"/>
-    <published>2024-04-04T16:22:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354052343031254279</id>
-    <title>ما قصة الأعرابي الذي سمع الأصمعي يُخطئ وهو يقرأ القرآن؟ #الشريعة_والحياة #ramadan2024</title>
-    <updated>2024-04-04T16:40:00+00:00</updated>
-    <content>ما قصة الأعرابي الذي سمع الأصمعي يُخطئ وهو يقرأ القرآن؟ #الشريعة_والحياة #ramadan2024</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354052343031254279"/>
-    <published>2024-04-04T16:40:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354061504531926279</id>
     <title>رسائل شوق وأدعية وأمنيات بانتهاء الحرب، هذه بعض رسائل المحاصرين في مستشفى الشفاء الطبي لمدة أسبوعين.⁣ #فيديو #حرب_غزة #مستشفى_الشفاء #فلسطين</title>
@@ -67,6 +51,22 @@
     <content>أسامة حمدان: نعلن تضامننا مع شبكة #الجزيرة في انتصارها لحقوق شعبنا ولن يمنعها ترهيب الاحتلال من نقل الحقيقة #حرب_غزة  #الأخبار #الجزيرة</content>
     <link href="https://tiktok.com/@aljazeera/video/7354088791394602248"/>
     <published>2024-04-04T19:03:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354100384299846930</id>
+    <title>عاجل - مصادر للجزيرة- بايدن قال لنتنياهو إن العالم تحول ضد إسرائيل وإن حلفاء لواشنطن أبلغوها بتحول في سياستهم.#عاجل #حرب_غزة #نتنياهو #بايدن</title>
+    <updated>2024-04-04T19:46:10+00:00</updated>
+    <content>عاجل - مصادر للجزيرة- بايدن قال لنتنياهو إن العالم تحول ضد إسرائيل وإن حلفاء لواشنطن أبلغوها بتحول في سياستهم.#عاجل #حرب_غزة #نتنياهو #بايدن</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354100384299846930"/>
+    <published>2024-04-04T19:46:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354100613971479815</id>
+    <title>"الضابط أطفأ سجائره في قدمي وأذني".. الفتى خالد جنيد أسير محرر يروي تفاصيل اعتقاله وتعذيبه على يد جيش الاحتلال، وكيف تركه وحيدًا في جنوب غزة دون أمه وإخوته. #رمضان_من_غزة #حرب_غزة</title>
+    <updated>2024-04-04T20:05:00+00:00</updated>
+    <content>"الضابط أطفأ سجائره في قدمي وأذني".. الفتى خالد جنيد أسير محرر يروي تفاصيل اعتقاله وتعذيبه على يد جيش الاحتلال، وكيف تركه وحيدًا في جنوب غزة دون أمه وإخوته. #رمضان_من_غزة #حرب_غزة</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354100613971479815"/>
+    <published>2024-04-04T20:05:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>

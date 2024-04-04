@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ennahar.tv</id>
   <title>ennahar.tv TikTok</title>
-  <updated>2024-04-03T20:09:39+00:00</updated>
+  <updated>2024-04-04T19:38:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ennahar.tv</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7352983766278638854</id>
-    <title>📌قلبك يتقطع .. عمي محمد يعيش تحت الشجرة منذ سنوات!! #alger🇩🇿 #ennahar_tv📺 #خليها_على_ربي </title>
-    <updated>2024-04-01T19:32:26+00:00</updated>
-    <content>📌قلبك يتقطع .. عمي محمد يعيش تحت الشجرة منذ سنوات!! #alger🇩🇿 #ennahar_tv📺 #خليها_على_ربي </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7352983766278638854"/>
-    <published>2024-04-01T19:32:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7353025614653263109</id>
-    <title>دمرتيلي حياتي.. انهيار "ريم"!! #الرهان الحلقة -22- 👇👇  https://youtu.be/GjYV_OAsZ2Q #ennahar_tv📺 #النهار #alger🇩🇿 #الرهان </title>
-    <updated>2024-04-01T22:14:50+00:00</updated>
-    <content>دمرتيلي حياتي.. انهيار "ريم"!! #الرهان الحلقة -22- 👇👇  https://youtu.be/GjYV_OAsZ2Q #ennahar_tv📺 #النهار #alger🇩🇿 #الرهان </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7353025614653263109"/>
-    <published>2024-04-01T22:14:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7353360787701894406</id>
     <title>حطمتيني وهرستيني🥺💔 الحلقة المنتظرة اليوم في مسلسل #الرهان.. كونوا في الموعد📺😉 #alger🇩🇿 #النهار #ennahar_tv📺 #الرهان </title>
@@ -67,6 +51,22 @@
     <content>#عيسى يراهن ب #عزيز_توغار😳 لا تفوتوا الحلقة الأخيرة من مسلسل #الرهان 👇👇  https://youtu.be/m4vXIsS9VAI #alger🇩🇿 #الرهان #ennahar_tv📺 #مسلسل_الرهان </content>
     <link href="https://tiktok.com/@ennahar.tv/video/7353735519354014982"/>
     <published>2024-04-03T20:09:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7354097784762502406</id>
+    <title>لحظة مؤثرة بين #عيسى و #بوعلام.. اسمحلي صاحبي🥺 #الرهان الحلقة الأخيرة 👇👇  https://youtu.be/m4vXIsS9VAI #ennahar_tv📺 #مسلسل_الرهان #alger🇩🇿 </title>
+    <updated>2024-04-04T19:35:24+00:00</updated>
+    <content>لحظة مؤثرة بين #عيسى و #بوعلام.. اسمحلي صاحبي🥺 #الرهان الحلقة الأخيرة 👇👇  https://youtu.be/m4vXIsS9VAI #ennahar_tv📺 #مسلسل_الرهان #alger🇩🇿 </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7354097784762502406"/>
+    <published>2024-04-04T19:35:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7354098559169432838</id>
+    <title>عيسى الزياني يدافع عن نفسه بكلام مؤثر في حبه وتعلقه بالوطن🥺 #الرهان الحلقة الأخيرة 👇👇  https://youtu.be/m4vXIsS9VAI #alger🇩🇿 #مسلسل_الرهان #ennahar_tv📺 #عيسى </title>
+    <updated>2024-04-04T19:38:25+00:00</updated>
+    <content>عيسى الزياني يدافع عن نفسه بكلام مؤثر في حبه وتعلقه بالوطن🥺 #الرهان الحلقة الأخيرة 👇👇  https://youtu.be/m4vXIsS9VAI #alger🇩🇿 #مسلسل_الرهان #ennahar_tv📺 #عيسى </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7354098559169432838"/>
+    <published>2024-04-04T19:38:25+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7213842316166024453</id>
