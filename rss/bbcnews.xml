@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-04T11:50:47+00:00</updated>
+  <updated>2024-04-04T13:51:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353683381042941216</id>
-    <title>Police said the 23-year-old’s behaviour was “unacceptable”. #Wiltshire#England#Crime#Motorbike#Motorcycle#Motorcyclist#BikeTok#PoliceChase#BBCNews</title>
-    <updated>2024-04-03T17:05:00+00:00</updated>
-    <content>Police said the 23-year-old’s behaviour was “unacceptable”. #Wiltshire#England#Crime#Motorbike#Motorcycle#Motorcyclist#BikeTok#PoliceChase#BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353683381042941216"/>
-    <published>2024-04-03T17:05:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353690729710882081</id>
     <title>"I've been offered tons of trans roles, and I just don't want to do it.” #HunterSchafer #Euphoria #Transgender #Trans #FilmTok #HBO #GQ #Jules #MovieTok #TV #TVTok #News #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>Residents of Hualien recounted how the 7.4 magnitude earthquake shook homes, killing nine and injuring more than 1,000. #Earthquake  #NaturalDisasters  #Quake  #Taiwan  #Hualien  #HualienCity  #News  #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7353978047319624993"/>
     <published>2024-04-04T11:50:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7354009154224180513</id>
+    <title>The man spent nearly two decades evading justice for his part in the killing of PC Sharon Beshenivsky in Bradford in 2005. #Bradford  #SharonBeshenivsky  #PCSharonBeshenivsky  #Police  #Robbery  #Bradford  #England  #News  #BBCNews</title>
+    <updated>2024-04-04T13:51:37+00:00</updated>
+    <content>The man spent nearly two decades evading justice for his part in the killing of PC Sharon Beshenivsky in Bradford in 2005. #Bradford  #SharonBeshenivsky  #PCSharonBeshenivsky  #Police  #Robbery  #Bradford  #England  #News  #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7354009154224180513"/>
+    <published>2024-04-04T13:51:37+00:00</published>
   </entry>
 </feed>
