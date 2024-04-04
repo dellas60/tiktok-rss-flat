@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-04T13:55:00+00:00</updated>
+  <updated>2024-04-04T14:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353753354956197127</id>
-    <title>كيف صمدت المباني في #تايوان أمام الزلزال العنيف الذي ضربها بقوة 7.7 درجات على مقياس ريختر؟ #شبكات #فاخوري #زلزال </title>
-    <updated>2024-04-03T21:19:01+00:00</updated>
-    <content>كيف صمدت المباني في #تايوان أمام الزلزال العنيف الذي ضربها بقوة 7.7 درجات على مقياس ريختر؟ #شبكات #فاخوري #زلزال </content>
-    <link href="https://tiktok.com/@aljazeera/video/7353753354956197127"/>
-    <published>2024-04-03T21:19:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353761659967753488</id>
     <title>فلسطينية تتحدث عن معاناة الحصول على المياه، ما يضطرهم إلى التيمم بالرمل لعدم توفرها للوضوء، في خيام النزوح برفح جنوب قطاع غزة. #فيديو #فلسطينية #مياه #وضوء #نزوح #حرب_غزة</title>
@@ -67,6 +59,14 @@
     <content>ما شروط تغيير المنكر في الشريعة الإسلامية؟ وما الفئات التي لا يسعها السكوت عنه أبدًا؟ الشيخ محمد الحسن الددو يوضح #الشريعة_والحياة_في_رمضان  #الجزيرة_في_رمضان</content>
     <link href="https://tiktok.com/@aljazeera/video/7354003000215506183"/>
     <published>2024-04-04T13:55:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354003433088716050</id>
+    <title>صالح الجعفراوي مع أحد الأطباء المتطوعين من الكويت: بيني وبين إسرائيل ثأر #فيديو #حرب_غزة #غزة #فلسطين #GAZA</title>
+    <updated>2024-04-04T14:30:00+00:00</updated>
+    <content>صالح الجعفراوي مع أحد الأطباء المتطوعين من الكويت: بيني وبين إسرائيل ثأر #فيديو #حرب_غزة #غزة #فلسطين #GAZA</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354003433088716050"/>
+    <published>2024-04-04T14:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
