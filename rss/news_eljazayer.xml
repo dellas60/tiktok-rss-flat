@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@news_eljazayer</id>
   <title>news_eljazayer TikTok</title>
-  <updated>2024-04-04T07:39:20+00:00</updated>
+  <updated>2024-04-04T15:32:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from news_eljazayer</subtitle>
-  <entry>
-    <id>https://tiktok.com/@news_eljazayer/video/7353395032273079584</id>
-    <title>#تبون #dans #الجزائر ##😱 #oran #kabyle #تحياالجزائر #newsالجزائر #incroyable #tiziouzou #58wilaya #تلمسان #dz #09 #dzpower #algeria </title>
-    <updated>2024-04-02T22:08:27+00:00</updated>
-    <content>#تبون #dans #الجزائر ##😱 #oran #kabyle #تحياالجزائر #newsالجزائر #incroyable #tiziouzou #58wilaya #تلمسان #dz #09 #dzpower #algeria </content>
-    <link href="https://tiktok.com/@news_eljazayer/video/7353395032273079584"/>
-    <published>2024-04-02T22:08:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@news_eljazayer/video/7353507744806096161</id>
     <title>#algeria #dzpower #09 #dz #تلمسان #58wilaya #tiziouzou #incroyable #newsالجزائر #kabyle #الجزائر #😱 #duo #dzpower #fyp #news </title>
@@ -67,6 +59,14 @@
     <content>##dz #duo #oran #tiziouzou #تحياالجزائر #dzpower #😱 #newsالجزائر #incroyable #تبون #fyp #58wilaya #dans #الجزائر #الجزائر #news </content>
     <link href="https://tiktok.com/@news_eljazayer/video/7353913228394532128"/>
     <published>2024-04-04T07:39:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@news_eljazayer/video/7354035122628267296</id>
+    <title>#news #الجزائر #dans #58wilaya #fyp #تبون #incroyable #newsالجزائر #😱 #dzpower #tiziouzou #oran #kabyle #algeria #09 #تلمسان </title>
+    <updated>2024-04-04T15:32:16+00:00</updated>
+    <content>#news #الجزائر #dans #58wilaya #fyp #تبون #incroyable #newsالجزائر #😱 #dzpower #tiziouzou #oran #kabyle #algeria #09 #تلمسان </content>
+    <link href="https://tiktok.com/@news_eljazayer/video/7354035122628267296"/>
+    <published>2024-04-04T15:32:16+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@news_eljazayer/video/7244903164032470299</id>
