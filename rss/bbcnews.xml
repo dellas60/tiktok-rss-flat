@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-04T15:30:00+00:00</updated>
+  <updated>2024-04-04T16:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353695598740000032</id>
-    <title>The Teaching Regulation Agency's panel found that "there is a real risk of Ms Morris repeating her offending behaviour" and noted she was "deliberate and sustained". #DeputyHead#Teacher#Teaching#Safeguard#Wigan#BBCNews</title>
-    <updated>2024-04-03T18:15:00+00:00</updated>
-    <content>The Teaching Regulation Agency's panel found that "there is a real risk of Ms Morris repeating her offending behaviour" and noted she was "deliberate and sustained". #DeputyHead#Teacher#Teaching#Safeguard#Wigan#BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353695598740000032"/>
-    <published>2024-04-03T18:15:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353713657022319905</id>
     <title>TT: Do you think companies should be able to use artists’ voices to make AI music? #AI #AIMusic #ArtificialIntelligence #BillieEilish #NickiMinaj  #KimPetras  #SamSmith #BobMarley #KatyPerry #ArtistsRightAlliance #MusicTok #TikTokMusic #MusicTikTok #Music</title>
@@ -91,5 +83,13 @@
     <content>If you have a 12-step skincare routine you might want to hear this… #Travel #TravelTok #TravelLiquids #MakeUp #Airport #AirportSecurity #Airport #Gatwick #Heathrow #ManchesterAirport #Teeside #LondonCityAirport #BirminghamAirport #PlaneTravel #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7354024266599255329"/>
     <published>2024-04-04T15:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7354029873494543649</id>
+    <title>"I wouldn't worry, we're not in the same class" x #TombRaider #LaraCroft #TombRaiderRemastered #BaftaGames #BaftaGamesAwards #Bafta #Zelda #Pokemon #Pikachu #Mario #SuperMario #Agent47 #PacMan #GamingTok #GameTok #VideoGame #VideoGames #GamesAwards #Gamin</title>
+    <updated>2024-04-04T16:00:00+00:00</updated>
+    <content>"I wouldn't worry, we're not in the same class" x #TombRaider #LaraCroft #TombRaiderRemastered #BaftaGames #BaftaGamesAwards #Bafta #Zelda #Pokemon #Pikachu #Mario #SuperMario #Agent47 #PacMan #GamingTok #GameTok #VideoGame #VideoGames #GamesAwards #Gamin</content>
+    <link href="https://tiktok.com/@bbcnews/video/7354029873494543649"/>
+    <published>2024-04-04T16:00:00+00:00</published>
   </entry>
 </feed>

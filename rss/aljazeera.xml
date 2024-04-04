@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-04T15:30:00+00:00</updated>
+  <updated>2024-04-04T15:44:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353996874115829010</id>
-    <title>رسالة تحذير من 600 محام بريطاني إلى حكومة بلادهم لوقف تصدير الأسلحة لإسرائيل.. تفاصيل أوفى مع مراسل #الجزيرة أسد الله الصاوي من أمام مقر الحكومة البريطانية #بريطانيا #الأخبار #حرب_غزة #فلسطين #london</title>
-    <updated>2024-04-04T13:04:57+00:00</updated>
-    <content>رسالة تحذير من 600 محام بريطاني إلى حكومة بلادهم لوقف تصدير الأسلحة لإسرائيل.. تفاصيل أوفى مع مراسل #الجزيرة أسد الله الصاوي من أمام مقر الحكومة البريطانية #بريطانيا #الأخبار #حرب_غزة #فلسطين #london</content>
-    <link href="https://tiktok.com/@aljazeera/video/7353996874115829010"/>
-    <published>2024-04-04T13:04:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354001237664156936</id>
     <title>إسرائيل اليوم: تفعيل عناصر فتح في غزة بموافقة حكومة الحرب تم بالتنسيق مع رئيس المخابرات الفلسطينية ماجد فرج #عاجل</title>
@@ -67,6 +59,14 @@
     <content>كيف وظف الجيش الإسرائيلي الذكاء الاصطناعي في حربه على غزة؟ #حرب_غزة #اللواء_فايز_الدويري #فلسطين #الذكاء_الاصطناعي #الأخبار</content>
     <link href="https://tiktok.com/@aljazeera/video/7354008219234159890"/>
     <published>2024-04-04T15:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354038064949349640</id>
+    <title>ما علاقة وسائل التواصل الاجتماعي بشرعنة النفاق والرياء؟ وما تأثير تلك السلوكيات على المجتمع المسلم؟ الإجابة مع المفكر الإسلامي أبوزيد المقرئ الإدريسي #الشريعة_والحياة_في_رمضان  #الجزيرة_في_رمضان</title>
+    <updated>2024-04-04T15:44:08+00:00</updated>
+    <content>ما علاقة وسائل التواصل الاجتماعي بشرعنة النفاق والرياء؟ وما تأثير تلك السلوكيات على المجتمع المسلم؟ الإجابة مع المفكر الإسلامي أبوزيد المقرئ الإدريسي #الشريعة_والحياة_في_رمضان  #الجزيرة_في_رمضان</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354038064949349640"/>
+    <published>2024-04-04T15:44:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
