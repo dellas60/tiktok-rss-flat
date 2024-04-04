@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-04T09:51:02+00:00</updated>
+  <updated>2024-04-04T11:15:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353645391247592737</id>
-    <title>The Nigerian music star who just finished an East African tour said the fake report was ‘extremely irresponsible’. #Davido #Tour #Nigeria #Afrobeat #Afrobeats #PrivateJet #K24TV #Kenya #EastAfrica #BBCNews</title>
-    <updated>2024-04-03T15:00:00+00:00</updated>
-    <content>The Nigerian music star who just finished an East African tour said the fake report was ‘extremely irresponsible’. #Davido #Tour #Nigeria #Afrobeat #Afrobeats #PrivateJet #K24TV #Kenya #EastAfrica #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353645391247592737"/>
-    <published>2024-04-03T15:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353654305770999073</id>
     <title>Would you want to look after an elephant? #Botswana #Germany #Elephant #Hunting #Angola #Mozambique #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>A 7.4 magnitude earthquake hit near Taiwan's county of Hualien, killing nine and injuring more than 1,000. #Taiwan  #Earthquake  #TaiwanEarthquake #Aftershocks  #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7353947177565080865"/>
     <published>2024-04-04T09:51:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353968700598340896</id>
+    <title>Authorities said there were no injuries after passengers and crew reportedly jumped into the sea to escape the fire. #Thailand  #Ferry  #Fire  #Blaze  #KohTao  #SuratThani  #News  #BBCNews</title>
+    <updated>2024-04-04T11:15:41+00:00</updated>
+    <content>Authorities said there were no injuries after passengers and crew reportedly jumped into the sea to escape the fire. #Thailand  #Ferry  #Fire  #Blaze  #KohTao  #SuratThani  #News  #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353968700598340896"/>
+    <published>2024-04-04T11:15:41+00:00</published>
   </entry>
 </feed>
