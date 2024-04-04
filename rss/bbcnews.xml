@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-04T16:00:00+00:00</updated>
+  <updated>2024-04-04T16:55:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353713657022319905</id>
-    <title>TT: Do you think companies should be able to use artists’ voices to make AI music? #AI #AIMusic #ArtificialIntelligence #BillieEilish #NickiMinaj  #KimPetras  #SamSmith #BobMarley #KatyPerry #ArtistsRightAlliance #MusicTok #TikTokMusic #MusicTikTok #Music</title>
-    <updated>2024-04-03T19:00:00+00:00</updated>
-    <content>TT: Do you think companies should be able to use artists’ voices to make AI music? #AI #AIMusic #ArtificialIntelligence #BillieEilish #NickiMinaj  #KimPetras  #SamSmith #BobMarley #KatyPerry #ArtistsRightAlliance #MusicTok #TikTokMusic #MusicTikTok #Music</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353713657022319905"/>
-    <published>2024-04-03T19:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353716970329509153</id>
     <title>Don’t count your chickens just yet… any proposed changes wouldn’t come into effect until 2033. #AnimalWelfare #Chickens #FreeRange #Organic#Farming #Scotland #ScottishGovernment #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>"I wouldn't worry, we're not in the same class" x #TombRaider #LaraCroft #TombRaiderRemastered #BaftaGames #BaftaGamesAwards #Bafta #Zelda #Pokemon #Pikachu #Mario #SuperMario #Agent47 #PacMan #GamingTok #GameTok #VideoGame #VideoGames #GamesAwards #Gamin</content>
     <link href="https://tiktok.com/@bbcnews/video/7354029873494543649"/>
     <published>2024-04-04T16:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7354051560227360032</id>
+    <title>Two people were left injured after a Lamborghini and Corvette caused "a chain reaction collision" in Dallas, Texas. #HitandRun   #NFL  #RasheeRice  #Texas  #KansasCityChiefs  #Lamborghini  #Corvette  #AmericanFootball  #BBCNews</title>
+    <updated>2024-04-04T16:55:00+00:00</updated>
+    <content>Two people were left injured after a Lamborghini and Corvette caused "a chain reaction collision" in Dallas, Texas. #HitandRun   #NFL  #RasheeRice  #Texas  #KansasCityChiefs  #Lamborghini  #Corvette  #AmericanFootball  #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7354051560227360032"/>
+    <published>2024-04-04T16:55:00+00:00</published>
   </entry>
 </feed>
