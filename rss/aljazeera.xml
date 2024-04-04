@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-03T23:00:00+00:00</updated>
+  <updated>2024-04-04T13:04:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7353706670523976978</id>
-    <title>الولايات المتحدة وألمانيا وحدهما تستحوذان على نحو 99% من واردات إسرائيل من السلاح.. أرقام عن واردات تل أبيب العسكرية #الأخبار #سلاح #ألمانيا #أمريكا #تل_أبيب #إسرائيل</title>
-    <updated>2024-04-03T19:05:00+00:00</updated>
-    <content>الولايات المتحدة وألمانيا وحدهما تستحوذان على نحو 99% من واردات إسرائيل من السلاح.. أرقام عن واردات تل أبيب العسكرية #الأخبار #سلاح #ألمانيا #أمريكا #تل_أبيب #إسرائيل</content>
-    <link href="https://tiktok.com/@aljazeera/video/7353706670523976978"/>
-    <published>2024-04-03T19:05:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7353707184825371912</id>
     <title>مصادر للجزيرة تكشف أن إفطار الرئيس الأمريكي مع شخصيات من العرب والمسلمين بينهم أطباء عادوا من غزة شهد انسحابا لعدد من الحضور #الأخبار #إفطار #أمريكا #عرب #بايدن #رئيس_أمريكا #غزة #حرب_غزة</title>
@@ -67,6 +59,14 @@
     <content>محاولة اقتحام منزل نتنياهو والشرطة تعتقل متظاهرين إسرائيليين يطالبون بتنحي نتنياهو وإبرام صفقة لإعادة الأسرى من قطاع غزة  #شبكات  #حرب_غزة #فاخوري #نتنياهو #صفقة #اقتحام</content>
     <link href="https://tiktok.com/@aljazeera/video/7353762562061765904"/>
     <published>2024-04-03T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7353996874115829010</id>
+    <title>رسالة تحذير من 600 محام بريطاني إلى حكومة بلادهم لوقف تصدير الأسلحة لإسرائيل.. تفاصيل أوفى مع مراسل #الجزيرة أسد الله الصاوي من أمام مقر الحكومة البريطانية #بريطانيا #الأخبار #حرب_غزة #فلسطين #london</title>
+    <updated>2024-04-04T13:04:57+00:00</updated>
+    <content>رسالة تحذير من 600 محام بريطاني إلى حكومة بلادهم لوقف تصدير الأسلحة لإسرائيل.. تفاصيل أوفى مع مراسل #الجزيرة أسد الله الصاوي من أمام مقر الحكومة البريطانية #بريطانيا #الأخبار #حرب_غزة #فلسطين #london</content>
+    <link href="https://tiktok.com/@aljazeera/video/7353996874115829010"/>
+    <published>2024-04-04T13:04:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
