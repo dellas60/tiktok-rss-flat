@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@news_eljazayer</id>
   <title>news_eljazayer TikTok</title>
-  <updated>2024-04-04T15:32:16+00:00</updated>
+  <updated>2024-04-04T18:13:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from news_eljazayer</subtitle>
-  <entry>
-    <id>https://tiktok.com/@news_eljazayer/video/7353507744806096161</id>
-    <title>#algeria #dzpower #09 #dz #تلمسان #58wilaya #tiziouzou #incroyable #newsالجزائر #kabyle #الجزائر #😱 #duo #dzpower #fyp #news </title>
-    <updated>2024-04-03T05:26:05+00:00</updated>
-    <content>#algeria #dzpower #09 #dz #تلمسان #58wilaya #tiziouzou #incroyable #newsالجزائر #kabyle #الجزائر #😱 #duo #dzpower #fyp #news </content>
-    <link href="https://tiktok.com/@news_eljazayer/video/7353507744806096161"/>
-    <published>2024-04-03T05:26:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@news_eljazayer/video/7353607553609239841</id>
     <title>#news #newsالجزائر #dzpower #fyp #😱 #incroyable #58wilaya #تلمسان #09 #algeria #dans #تبون #algeria #duo #😱 #fyp #الجزائر #newsالجزائر </title>
@@ -67,6 +59,14 @@
     <content>#news #الجزائر #dans #58wilaya #fyp #تبون #incroyable #newsالجزائر #😱 #dzpower #tiziouzou #oran #kabyle #algeria #09 #تلمسان </content>
     <link href="https://tiktok.com/@news_eljazayer/video/7354035122628267296"/>
     <published>2024-04-04T15:32:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@news_eljazayer/video/7354076652319542561</id>
+    <title>#تلمسان #09 #algeria #kabyle #tiziouzou #oran #dzpower #newsالجزائر #dans #algeria #تحياالجزائر #duo #dz </title>
+    <updated>2024-04-04T18:13:26+00:00</updated>
+    <content>#تلمسان #09 #algeria #kabyle #tiziouzou #oran #dzpower #newsالجزائر #dans #algeria #تحياالجزائر #duo #dz </content>
+    <link href="https://tiktok.com/@news_eljazayer/video/7354076652319542561"/>
+    <published>2024-04-04T18:13:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@news_eljazayer/video/7244903164032470299</id>

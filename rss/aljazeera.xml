@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-04T17:14:55+00:00</updated>
+  <updated>2024-04-04T18:18:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354003433088716050</id>
-    <title>صالح الجعفراوي مع أحد الأطباء المتطوعين من الكويت: بيني وبين إسرائيل ثأر #فيديو #حرب_غزة #غزة #فلسطين #GAZA</title>
-    <updated>2024-04-04T14:30:00+00:00</updated>
-    <content>صالح الجعفراوي مع أحد الأطباء المتطوعين من الكويت: بيني وبين إسرائيل ثأر #فيديو #حرب_غزة #غزة #فلسطين #GAZA</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354003433088716050"/>
-    <published>2024-04-04T14:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354005660889058578</id>
-    <title>25 مليون مسلم يعيشون في #الصين ينتمون إلى 10 أقليّات أكثرها تعدادا أقليتا "الخوي والإيغور" ويمثل شهر #رمضان مناسبة لتأكيد الصلة بهويتهم الدينية والثقافيّة #الأخبار #الصين #china</title>
-    <updated>2024-04-04T14:55:00+00:00</updated>
-    <content>25 مليون مسلم يعيشون في #الصين ينتمون إلى 10 أقليّات أكثرها تعدادا أقليتا "الخوي والإيغور" ويمثل شهر #رمضان مناسبة لتأكيد الصلة بهويتهم الدينية والثقافيّة #الأخبار #الصين #china</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354005660889058578"/>
-    <published>2024-04-04T14:55:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354008219234159890</id>
-    <title>كيف وظف الجيش الإسرائيلي الذكاء الاصطناعي في حربه على غزة؟ #حرب_غزة #اللواء_فايز_الدويري #فلسطين #الذكاء_الاصطناعي #الأخبار</title>
-    <updated>2024-04-04T15:30:00+00:00</updated>
-    <content>كيف وظف الجيش الإسرائيلي الذكاء الاصطناعي في حربه على غزة؟ #حرب_غزة #اللواء_فايز_الدويري #فلسطين #الذكاء_الاصطناعي #الأخبار</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354008219234159890"/>
-    <published>2024-04-04T15:30:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354038064949349640</id>
     <title>ما علاقة وسائل التواصل الاجتماعي بشرعنة النفاق والرياء؟ وما تأثير تلك السلوكيات على المجتمع المسلم؟ الإجابة مع المفكر الإسلامي أبوزيد المقرئ الإدريسي #الشريعة_والحياة_في_رمضان  #الجزيرة_في_رمضان</title>
@@ -67,6 +43,30 @@
     <content>رسائل شوق وأدعية وأمنيات بانتهاء الحرب، هذه بعض رسائل المحاصرين في مستشفى الشفاء الطبي لمدة أسبوعين.⁣ #فيديو #حرب_غزة #مستشفى_الشفاء #فلسطين</content>
     <link href="https://tiktok.com/@aljazeera/video/7354061504531926279"/>
     <published>2024-04-04T17:14:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354068320762563858</id>
+    <title>عاجل - وسائل إعلام إسرائيلية- بدء إخلاء سفارات إسرائيل في العالم خوفا من رد فعل إيراني.#عاجل  #حرب_غزة #إيران</title>
+    <updated>2024-04-04T17:41:55+00:00</updated>
+    <content>عاجل - وسائل إعلام إسرائيلية- بدء إخلاء سفارات إسرائيل في العالم خوفا من رد فعل إيراني.#عاجل  #حرب_غزة #إيران</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354068320762563858"/>
+    <published>2024-04-04T17:41:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354071520454413576</id>
+    <title>طبيب يكشف انتهاكات بحق معتقلين من غزة والمطبخ المركزي يطالب بتحقيق مستقل #إيجاز #حرب_غزة #إسرائيل #غزة #فلسطين</title>
+    <updated>2024-04-04T17:53:49+00:00</updated>
+    <content>طبيب يكشف انتهاكات بحق معتقلين من غزة والمطبخ المركزي يطالب بتحقيق مستقل #إيجاز #حرب_غزة #إسرائيل #غزة #فلسطين</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354071520454413576"/>
+    <published>2024-04-04T17:53:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354077909633600776</id>
+    <title>الكويت.. استمرار عملية التصويت لاختيار 50 عضوا من بين 200 مرشح في انتخابات مجلس الأمة #الكويت #الأخبار #انتخابات_مجلس_الأمة</title>
+    <updated>2024-04-04T18:18:59+00:00</updated>
+    <content>الكويت.. استمرار عملية التصويت لاختيار 50 عضوا من بين 200 مرشح في انتخابات مجلس الأمة #الكويت #الأخبار #انتخابات_مجلس_الأمة</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354077909633600776"/>
+    <published>2024-04-04T18:18:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
