@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-04T22:00:00+00:00</updated>
+  <updated>2024-04-04T22:33:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354077909633600776</id>
-    <title>الكويت.. استمرار عملية التصويت لاختيار 50 عضوا من بين 200 مرشح في انتخابات مجلس الأمة #الكويت #الأخبار #انتخابات_مجلس_الأمة</title>
-    <updated>2024-04-04T18:18:59+00:00</updated>
-    <content>الكويت.. استمرار عملية التصويت لاختيار 50 عضوا من بين 200 مرشح في انتخابات مجلس الأمة #الكويت #الأخبار #انتخابات_مجلس_الأمة</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354077909633600776"/>
-    <published>2024-04-04T18:18:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354100384299846930</id>
-    <title>عاجل - مصادر للجزيرة- بايدن قال لنتنياهو إن العالم تحول ضد إسرائيل وإن حلفاء لواشنطن أبلغوها بتحول في سياستهم.#عاجل #حرب_غزة #نتنياهو #بايدن</title>
-    <updated>2024-04-04T19:46:10+00:00</updated>
-    <content>عاجل - مصادر للجزيرة- بايدن قال لنتنياهو إن العالم تحول ضد إسرائيل وإن حلفاء لواشنطن أبلغوها بتحول في سياستهم.#عاجل #حرب_غزة #نتنياهو #بايدن</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354100384299846930"/>
-    <published>2024-04-04T19:46:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354100613971479815</id>
     <title>"الضابط أطفأ سجائره في قدمي وأذني".. الفتى خالد جنيد أسير محرر يروي تفاصيل اعتقاله وتعذيبه على يد جيش الاحتلال، وكيف تركه وحيدًا في جنوب غزة دون أمه وإخوته. #رمضان_من_غزة #حرب_غزة</title>
@@ -67,6 +51,22 @@
     <content>"أكثر أمة برامجها العبادية قادرة على ضبط حياتها".. كيف يحفز الإسلام منتسبيه لضبط أوقاتهم وحياتهم؟ #الشريعة_والحياة_في_رمضان  #الجزيرة_في_رمضان #ramadan2024</content>
     <link href="https://tiktok.com/@aljazeera/video/7354102294264270088"/>
     <published>2024-04-04T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354142678721760530</id>
+    <title>معاناة الصيادين في #غزة  تتفاقم بعد القصف الإسرائيلي لقواربهم والدمار الكبير الذي طال الميناء الرئيسي #حرب_غزة #تقرير</title>
+    <updated>2024-04-04T22:29:50+00:00</updated>
+    <content>معاناة الصيادين في #غزة  تتفاقم بعد القصف الإسرائيلي لقواربهم والدمار الكبير الذي طال الميناء الرئيسي #حرب_غزة #تقرير</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354142678721760530"/>
+    <published>2024-04-04T22:29:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354143602194255111</id>
+    <title>عاجل | القناة 14 الإسرائيلية: رئيس الأركان يقرر تنحية قائد لواء الناحال وقائد المساعدة اللوائية بعد مقتل عمال الإغاثة. 🔴 القناة 14 الإسرائيلية: رئيس الأركان يقرر توبيخ قائد المنطقة الجنوبية وقائدي الفرقة 162 ولواء الناحال. #عاجل #حرب_غزة #إسرائيل </title>
+    <updated>2024-04-04T22:33:14+00:00</updated>
+    <content>عاجل | القناة 14 الإسرائيلية: رئيس الأركان يقرر تنحية قائد لواء الناحال وقائد المساعدة اللوائية بعد مقتل عمال الإغاثة. 🔴 القناة 14 الإسرائيلية: رئيس الأركان يقرر توبيخ قائد المنطقة الجنوبية وقائدي الفرقة 162 ولواء الناحال. #عاجل #حرب_غزة #إسرائيل </content>
+    <link href="https://tiktok.com/@aljazeera/video/7354143602194255111"/>
+    <published>2024-04-04T22:33:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
