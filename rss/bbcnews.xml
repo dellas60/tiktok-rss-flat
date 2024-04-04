@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-04T07:51:47+00:00</updated>
+  <updated>2024-04-04T08:35:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353644120654482721</id>
-    <title>There are strict rules in the UK for adverts promoting low-calorie diets.#KatiePrice#Dieting#Diet#Health#HealthyEating#Nutrition#AdvertisingStandardsAuthority#ASA#BBCNews</title>
-    <updated>2024-04-03T14:15:01+00:00</updated>
-    <content>There are strict rules in the UK for adverts promoting low-calorie diets.#KatiePrice#Dieting#Diet#Health#HealthyEating#Nutrition#AdvertisingStandardsAuthority#ASA#BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353644120654482721"/>
-    <published>2024-04-03T14:15:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353635374364724513</id>
     <title>He was convicted of taking images of a total of 15 women from social media and uploading to porn websites. #DeepFakes #Cambridge #AI #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>Staff were worried that a window nearby might break and injure the babies during the 7.4 magnitude earthquake. #Taiwan  #Earthquake  #TaiwanEarthquake  #Taipei  #Hospital  #Maternity  #MaternityWard  #Babies  #Aftershocks  #News  #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7353916233487617313"/>
     <published>2024-04-04T07:51:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7353922652823670048</id>
+    <title>At least nine people have been confirmed dead after a magnitude 7.4 earthquake hit Taiwan. #Earthquake  #Taiwan  #RoofTop  #Taipei  #BBCNews</title>
+    <updated>2024-04-04T08:35:00+00:00</updated>
+    <content>At least nine people have been confirmed dead after a magnitude 7.4 earthquake hit Taiwan. #Earthquake  #Taiwan  #RoofTop  #Taipei  #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7353922652823670048"/>
+    <published>2024-04-04T08:35:00+00:00</published>
   </entry>
 </feed>
