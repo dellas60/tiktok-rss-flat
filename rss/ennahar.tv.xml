@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ennahar.tv</id>
   <title>ennahar.tv TikTok</title>
-  <updated>2024-04-04T19:38:25+00:00</updated>
+  <updated>2024-04-05T01:34:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ennahar.tv</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7353360787701894406</id>
-    <title>حطمتيني وهرستيني🥺💔 الحلقة المنتظرة اليوم في مسلسل #الرهان.. كونوا في الموعد📺😉 #alger🇩🇿 #النهار #ennahar_tv📺 #الرهان </title>
-    <updated>2024-04-02T19:55:28+00:00</updated>
-    <content>حطمتيني وهرستيني🥺💔 الحلقة المنتظرة اليوم في مسلسل #الرهان.. كونوا في الموعد📺😉 #alger🇩🇿 #النهار #ennahar_tv📺 #الرهان </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7353360787701894406"/>
-    <published>2024-04-02T19:55:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7353365157189258502</id>
-    <title>مفاجأة للضابطة منال😲😲 #الرهان الحلقة -23- 👇👇 https://youtu.be/TusKAATYKAQ #النهار #ennahar_tv📺 #الرهان </title>
-    <updated>2024-04-02T20:12:25+00:00</updated>
-    <content>مفاجأة للضابطة منال😲😲 #الرهان الحلقة -23- 👇👇 https://youtu.be/TusKAATYKAQ #النهار #ennahar_tv📺 #الرهان </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7353365157189258502"/>
-    <published>2024-04-02T20:12:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7353431139463286022</id>
-    <title>📌#عزيز_توغار: هكذا تلقيت خبر وفـ.اة والدتي وكنت منشغلا بالتمثيل ولم أستطيع حضور الجنازة #الرهان #ennahar_tv📺 #alger🇩🇿 </title>
-    <updated>2024-04-03T00:28:29+00:00</updated>
-    <content>📌#عزيز_توغار: هكذا تلقيت خبر وفـ.اة والدتي وكنت منشغلا بالتمثيل ولم أستطيع حضور الجنازة #الرهان #ennahar_tv📺 #alger🇩🇿 </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7353431139463286022"/>
-    <published>2024-04-03T00:28:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7353711307901881606</id>
     <title>تشاهدون سهرة اليوم.. الحلقة الأخيرة من #مسلسل_الرهان  كيف سينتهي صراع العقل والقلب.. وما مصير #عزيز_توغار كونوا في الموعد📺😉 #ennahar_tv📺 #الرهان #alger🇩🇿 </title>
@@ -67,6 +43,30 @@
     <content>عيسى الزياني يدافع عن نفسه بكلام مؤثر في حبه وتعلقه بالوطن🥺 #الرهان الحلقة الأخيرة 👇👇  https://youtu.be/m4vXIsS9VAI #alger🇩🇿 #مسلسل_الرهان #ennahar_tv📺 #عيسى </content>
     <link href="https://tiktok.com/@ennahar.tv/video/7354098559169432838"/>
     <published>2024-04-04T19:38:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7354180890769001734</id>
+    <title>📌 محمد تاكيرات .. دوري في مسلسل الرهان معقد قليلا وليس من السهل تجسيده #alger🇩🇿 #مسلسل_الرهان #ennahar_tv📺 </title>
+    <updated>2024-04-05T00:57:52+00:00</updated>
+    <content>📌 محمد تاكيرات .. دوري في مسلسل الرهان معقد قليلا وليس من السهل تجسيده #alger🇩🇿 #مسلسل_الرهان #ennahar_tv📺 </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7354180890769001734"/>
+    <published>2024-04-05T00:57:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7354182216013876486</id>
+    <title>📌 سليم توغار بطل مسلسل الرهان .. تجسيد دور سليم لم يكن سهلا #ennahar_tv📺 #alger🇩🇿 #مسلسل_الرهان </title>
+    <updated>2024-04-05T01:03:02+00:00</updated>
+    <content>📌 سليم توغار بطل مسلسل الرهان .. تجسيد دور سليم لم يكن سهلا #ennahar_tv📺 #alger🇩🇿 #مسلسل_الرهان </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7354182216013876486"/>
+    <published>2024-04-05T01:03:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7354190290468605189</id>
+    <title>📌 مفيدة عداس .. هذه هي حقيقة الستوري لي دارتها بشرى عقبي .. راجلها إنسان معروف و الناس حبو يصوروها معاه بسيف #alger🇩🇿 #رمضان_2024 #ZAPPING #ennahar_tv📺 </title>
+    <updated>2024-04-05T01:34:23+00:00</updated>
+    <content>📌 مفيدة عداس .. هذه هي حقيقة الستوري لي دارتها بشرى عقبي .. راجلها إنسان معروف و الناس حبو يصوروها معاه بسيف #alger🇩🇿 #رمضان_2024 #ZAPPING #ennahar_tv📺 </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7354190290468605189"/>
+    <published>2024-04-05T01:34:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7213842316166024453</id>
