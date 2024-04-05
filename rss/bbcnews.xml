@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-05T17:55:00+00:00</updated>
+  <updated>2024-04-05T18:34:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7354051560227360032</id>
-    <title>Two people were left injured after a Lamborghini and Corvette caused "a chain reaction collision" in Dallas, Texas. #HitandRun   #NFL  #RasheeRice  #Texas  #KansasCityChiefs  #Lamborghini  #Corvette  #AmericanFootball  #BBCNews</title>
-    <updated>2024-04-04T16:55:00+00:00</updated>
-    <content>Two people were left injured after a Lamborghini and Corvette caused "a chain reaction collision" in Dallas, Texas. #HitandRun   #NFL  #RasheeRice  #Texas  #KansasCityChiefs  #Lamborghini  #Corvette  #AmericanFootball  #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7354051560227360032"/>
-    <published>2024-04-04T16:55:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7354088359792364832</id>
     <title>The pig kidney was modified to remove harmful pig genes and add certain human genes to improve its compatibility with humans.  #PigKidney  #Pig  #Transplant  #OrganTransplant  #HumanTransplant  #PigTransplant  #Hospital  #Kidney  #KidneyDisease  #Dialysis</title>
@@ -91,5 +83,13 @@
     <content>Mr Wragg told the BBC that he’d "been subject to a sting operation by a very clever and manipulative operator". #WilliamWragg #Parliament #HazelGrove #HouseofCommons #MemberofParliament #Westminster #HoneyTrap #Scam #WhatsApp #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7354438297831230753"/>
     <published>2024-04-05T17:55:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7354453210527976736</id>
+    <title>McDonald’s is hoping it can restore its reputation in the Middle East after widespread boycotts and protests against the fast-food chain. #McDonalds #Israel #Gaza #MiddleEast #McDonaldsIsrael #News #BBCNews</title>
+    <updated>2024-04-05T18:34:42+00:00</updated>
+    <content>McDonald’s is hoping it can restore its reputation in the Middle East after widespread boycotts and protests against the fast-food chain. #McDonalds #Israel #Gaza #MiddleEast #McDonaldsIsrael #News #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7354453210527976736"/>
+    <published>2024-04-05T18:34:42+00:00</published>
   </entry>
 </feed>
