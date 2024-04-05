@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-04T23:30:00+00:00</updated>
+  <updated>2024-04-05T00:15:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354102775699016968</id>
-    <title>شبكات | بالفيديو.. بائع المجلجل: طفل يمني يخطف الأضواء أثناء مقابلة تلفزيونية #شبكات #اليمن #المجلجل</title>
-    <updated>2024-04-04T21:00:00+00:00</updated>
-    <content>شبكات | بالفيديو.. بائع المجلجل: طفل يمني يخطف الأضواء أثناء مقابلة تلفزيونية #شبكات #اليمن #المجلجل</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354102775699016968"/>
-    <published>2024-04-04T21:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354101902793116935</id>
-    <title>عاصم حجي.. أحد أبرز علماء الفضاء العرب والمسلمين، ماذا تعرفون عنه؟ #بروفايل #الجزيرة_في_رمضان #عصام_حجي</title>
-    <updated>2024-04-04T21:30:00+00:00</updated>
-    <content>عاصم حجي.. أحد أبرز علماء الفضاء العرب والمسلمين، ماذا تعرفون عنه؟ #بروفايل #الجزيرة_في_رمضان #عصام_حجي</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354101902793116935"/>
-    <published>2024-04-04T21:30:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354102294264270088</id>
     <title>"أكثر أمة برامجها العبادية قادرة على ضبط حياتها".. كيف يحفز الإسلام منتسبيه لضبط أوقاتهم وحياتهم؟ #الشريعة_والحياة_في_رمضان  #الجزيرة_في_رمضان #ramadan2024</title>
@@ -67,6 +51,22 @@
     <content>توترات أمريكية إسرائيلية حول العملية العسكرية المرتقبة في رفح واستهداف عمال الإغاثة.. التفاصيل مع مراسلة #الجزيرة  فاطمة خمايسي #حرب_غزة  #الأخبار #رفح #غزة</content>
     <link href="https://tiktok.com/@aljazeera/video/7354144381626109202"/>
     <published>2024-04-04T23:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354147627706879239</id>
+    <title>بالخريطة التفاعلية ما آخر تطورات معارك دير البلح؟ #دير_البلح #حرب_غز #الأخبار</title>
+    <updated>2024-04-05T00:05:00+00:00</updated>
+    <content>بالخريطة التفاعلية ما آخر تطورات معارك دير البلح؟ #دير_البلح #حرب_غز #الأخبار</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354147627706879239"/>
+    <published>2024-04-05T00:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354150043588349202</id>
+    <title>قراءة عسكرية.. لماذا تتركز العمليات العسكرية للجيش الإسرائيلي وسط قطاع غزة؟ #الأخبار #حرب_غزة #إسرائيل #قطاع_غزة</title>
+    <updated>2024-04-05T00:15:00+00:00</updated>
+    <content>قراءة عسكرية.. لماذا تتركز العمليات العسكرية للجيش الإسرائيلي وسط قطاع غزة؟ #الأخبار #حرب_غزة #إسرائيل #قطاع_غزة</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354150043588349202"/>
+    <published>2024-04-05T00:15:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
