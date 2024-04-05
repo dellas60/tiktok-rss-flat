@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-05T20:30:53+00:00</updated>
+  <updated>2024-04-05T21:24:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354441827698756865</id>
-    <title>شاب يقوم بطهي طبق “التونة” على الطريقة الغزية #فيديو #حرب_غزة #غزة #فلسطين #حرب_غزة </title>
-    <updated>2024-04-05T17:50:39+00:00</updated>
-    <content>شاب يقوم بطهي طبق “التونة” على الطريقة الغزية #فيديو #حرب_غزة #غزة #فلسطين #حرب_غزة </content>
-    <link href="https://tiktok.com/@aljazeera/video/7354441827698756865"/>
-    <published>2024-04-05T17:50:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354441869767494919</id>
-    <title>الجيش الإسرائيلي: استهداف عمال الإغاثة نتج عن خطأ كان يمكن منعه #الأخبار #حرب_غزة #إسرائيل </title>
-    <updated>2024-04-05T17:50:41+00:00</updated>
-    <content>الجيش الإسرائيلي: استهداف عمال الإغاثة نتج عن خطأ كان يمكن منعه #الأخبار #حرب_غزة #إسرائيل </content>
-    <link href="https://tiktok.com/@aljazeera/video/7354441869767494919"/>
-    <published>2024-04-05T17:50:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354452634171886855</id>
     <title>صور حصرية لاستهداف مدنيين وضغط أمريكي على نتنياهو لوقف إطلاق النار #إيجاز #حرب_غزة #نتنياهو</title>
@@ -67,6 +51,22 @@
     <content>بفصاحة وبلاغة.. طفلة غزية تصف الحال في مدينة غزة #فيديو#حرب_غزة #غزة #غزة </content>
     <link href="https://tiktok.com/@aljazeera/video/7354483077160258832"/>
     <published>2024-04-05T20:30:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354493760497044743</id>
+    <title>الرئيس الإيراني: الكيان الصهيوني لم يحقق أيا من أهدافه وهو يواجه هزيمة في مواجهة المقاومة #الأخبار #إيران #إبراهيم_رئيسي #إسرائيل</title>
+    <updated>2024-04-05T21:12:34+00:00</updated>
+    <content>الرئيس الإيراني: الكيان الصهيوني لم يحقق أيا من أهدافه وهو يواجه هزيمة في مواجهة المقاومة #الأخبار #إيران #إبراهيم_رئيسي #إسرائيل</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354493760497044743"/>
+    <published>2024-04-05T21:12:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354496797303262471</id>
+    <title>عاجل | سي بي إس عن مسؤولين أمريكيين: رد إيران قد يستهدف منشأة دبلوماسية إسرائيلية وقد يحدث من الآن وحتى نهاية رمضان. 🚨 نيويورك تايمز عن مسؤول إسرائيلي: محللون إسرائيليون خلصوا إلى أن إيران ستهاجم إسرائيل بنفسها لا عبر حزب الله. #عاجل #إيران #إسرائيل </title>
+    <updated>2024-04-05T21:24:04+00:00</updated>
+    <content>عاجل | سي بي إس عن مسؤولين أمريكيين: رد إيران قد يستهدف منشأة دبلوماسية إسرائيلية وقد يحدث من الآن وحتى نهاية رمضان. 🚨 نيويورك تايمز عن مسؤول إسرائيلي: محللون إسرائيليون خلصوا إلى أن إيران ستهاجم إسرائيل بنفسها لا عبر حزب الله. #عاجل #إيران #إسرائيل </content>
+    <link href="https://tiktok.com/@aljazeera/video/7354496797303262471"/>
+    <published>2024-04-05T21:24:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
