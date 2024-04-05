@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-05T10:08:32+00:00</updated>
+  <updated>2024-04-05T11:09:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353947177565080865</id>
-    <title>A 7.4 magnitude earthquake hit near Taiwan's county of Hualien, killing nine and injuring more than 1,000. #Taiwan  #Earthquake  #TaiwanEarthquake #Aftershocks  #BBCNews</title>
-    <updated>2024-04-04T09:51:02+00:00</updated>
-    <content>A 7.4 magnitude earthquake hit near Taiwan's county of Hualien, killing nine and injuring more than 1,000. #Taiwan  #Earthquake  #TaiwanEarthquake #Aftershocks  #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353947177565080865"/>
-    <published>2024-04-04T09:51:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353968700598340896</id>
-    <title>Authorities said there were no injuries after passengers and crew reportedly jumped into the sea to escape the fire. #Thailand  #Ferry  #Fire  #Blaze  #KohTao  #SuratThani  #News  #BBCNews</title>
-    <updated>2024-04-04T11:15:41+00:00</updated>
-    <content>Authorities said there were no injuries after passengers and crew reportedly jumped into the sea to escape the fire. #Thailand  #Ferry  #Fire  #Blaze  #KohTao  #SuratThani  #News  #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353968700598340896"/>
-    <published>2024-04-04T11:15:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7353978047319624993</id>
     <title>Residents of Hualien recounted how the 7.4 magnitude earthquake shook homes, killing nine and injuring more than 1,000. #Earthquake  #NaturalDisasters  #Quake  #Taiwan  #Hualien  #HualienCity  #News  #BBCNews</title>
@@ -91,5 +75,21 @@
     <content>Twenty-eight countries voted in favour, six against, and 13 abstained from the resolution calling for a weapons ban on Israel. #UN #HumanRights #UNHRC #HumanRightsCouncil #Israel #Gaza #BreakingNews #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7354322772278922529"/>
     <published>2024-04-05T10:08:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7354335454314908960</id>
+    <title>The offer will mean some consultants will receive a pay increase of nearly 20%. #NHS #NHSPay #Strikes #Doctors #Health #BreakingNews #BBCNews</title>
+    <updated>2024-04-05T10:57:42+00:00</updated>
+    <content>The offer will mean some consultants will receive a pay increase of nearly 20%. #NHS #NHSPay #Strikes #Doctors #Health #BreakingNews #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7354335454314908960"/>
+    <published>2024-04-05T10:57:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7354338401732119840</id>
+    <title>The Israeli military has sacked two senior officers after seven World Central Kitchen aid workers were killed in a strike in Gaza on Monday. #WorldCentralKitchen #WCK #Israel #Gaza #BreakingNews #BBCNews</title>
+    <updated>2024-04-05T11:09:12+00:00</updated>
+    <content>The Israeli military has sacked two senior officers after seven World Central Kitchen aid workers were killed in a strike in Gaza on Monday. #WorldCentralKitchen #WCK #Israel #Gaza #BreakingNews #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7354338401732119840"/>
+    <published>2024-04-05T11:09:12+00:00</published>
   </entry>
 </feed>
