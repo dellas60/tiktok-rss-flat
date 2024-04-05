@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ahmed_seglab</id>
   <title>ahmed_seglab TikTok</title>
-  <updated>2024-04-05T02:16:29+00:00</updated>
+  <updated>2024-04-05T20:06:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ahmed_seglab</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ahmed_seglab/video/7353102037741096224</id>
-    <title>#seglab #الجزائر🇩🇿 #سقلاب #algeria #مصر🇪🇬 #لا_للعهدة_الثانية </title>
-    <updated>2024-04-02T03:11:38+00:00</updated>
-    <content>#seglab #الجزائر🇩🇿 #سقلاب #algeria #مصر🇪🇬 #لا_للعهدة_الثانية </content>
-    <link href="https://tiktok.com/@ahmed_seglab/video/7353102037741096224"/>
-    <published>2024-04-02T03:11:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ahmed_seglab/video/7353305756998880544</id>
     <title>#لا_للعهدة_الثانية #algeria #سقلاب #الجزائر🇩🇿 #seglab </title>
@@ -91,5 +83,13 @@
     <content>#algeria #الجزائر🇩🇿 #seglab #سقلاب </content>
     <link href="https://tiktok.com/@ahmed_seglab/video/7354201086267313441"/>
     <published>2024-04-05T02:16:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ahmed_seglab/video/7354476965191093537</id>
+    <title>#سقلاب #seglab #الجزائر🇩🇿 #algeria #algeria </title>
+    <updated>2024-04-05T20:06:53+00:00</updated>
+    <content>#سقلاب #seglab #الجزائر🇩🇿 #algeria #algeria </content>
+    <link href="https://tiktok.com/@ahmed_seglab/video/7354476965191093537"/>
+    <published>2024-04-05T20:06:53+00:00</published>
   </entry>
 </feed>
