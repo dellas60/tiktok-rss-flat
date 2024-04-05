@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-05T12:00:00+00:00</updated>
+  <updated>2024-04-05T14:09:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354150043588349202</id>
-    <title>قراءة عسكرية.. لماذا تتركز العمليات العسكرية للجيش الإسرائيلي وسط قطاع غزة؟ #الأخبار #حرب_غزة #إسرائيل #قطاع_غزة</title>
-    <updated>2024-04-05T00:15:00+00:00</updated>
-    <content>قراءة عسكرية.. لماذا تتركز العمليات العسكرية للجيش الإسرائيلي وسط قطاع غزة؟ #الأخبار #حرب_غزة #إسرائيل #قطاع_غزة</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354150043588349202"/>
-    <published>2024-04-05T00:15:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354151234921663751</id>
-    <title>معلمة تتطوع لتحفيظ القرآن الكريم في خيمة بأحد مراكز الإيواء في رفح #تقرير #حرب_غزة</title>
-    <updated>2024-04-05T01:00:00+00:00</updated>
-    <content>معلمة تتطوع لتحفيظ القرآن الكريم في خيمة بأحد مراكز الإيواء في رفح #تقرير #حرب_غزة</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354151234921663751"/>
-    <published>2024-04-05T01:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354195528340622600</id>
     <title>تاريخ محاولات الاحتلال لإسكات الحقيقة.. إليكم أبرز الاعتداءات الإسرائيلية على صحفيي شبكة الجزيرة. #ألبوم #حرب_غزة #إسرائيل  #الجزيرة </title>
@@ -67,6 +51,22 @@
     <content>#رمضان_ومدينة | مدينة يعود أصل تسميتها للأمازيغية وللشهر الكريم قدسية خاصة بها.. تعرَّف على أهم طقوس أهالي القرارة بالجزائر.. وما أبرز عاداتهم؟ #الجزيرة_في_رمضان #ramadan2024 #الجزائر</content>
     <link href="https://tiktok.com/@aljazeera/video/7354345103797865729"/>
     <published>2024-04-05T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354372453591797010</id>
+    <title>النتائج الأولية للانتخابات في الكويت تظهر دخول 11 نائبا جديدا لمجلس الأمة #الأخبار #الكويت #مجلس_الأمة </title>
+    <updated>2024-04-05T13:21:16+00:00</updated>
+    <content>النتائج الأولية للانتخابات في الكويت تظهر دخول 11 نائبا جديدا لمجلس الأمة #الأخبار #الكويت #مجلس_الأمة </content>
+    <link href="https://tiktok.com/@aljazeera/video/7354372453591797010"/>
+    <published>2024-04-05T13:21:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354384983542353170</id>
+    <title>عبر "رسالة قاسية".. أمريكا تلوح بتغيير سياستها إزاء إسرائيل #الأخبار #حرب_غزة #إسرائيل #أمريكا  #تقرير </title>
+    <updated>2024-04-05T14:09:56+00:00</updated>
+    <content>عبر "رسالة قاسية".. أمريكا تلوح بتغيير سياستها إزاء إسرائيل #الأخبار #حرب_غزة #إسرائيل #أمريكا  #تقرير </content>
+    <link href="https://tiktok.com/@aljazeera/video/7354384983542353170"/>
+    <published>2024-04-05T14:09:56+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
