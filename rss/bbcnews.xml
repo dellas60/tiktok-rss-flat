@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-05T11:09:12+00:00</updated>
+  <updated>2024-04-05T15:46:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7353978047319624993</id>
-    <title>Residents of Hualien recounted how the 7.4 magnitude earthquake shook homes, killing nine and injuring more than 1,000. #Earthquake  #NaturalDisasters  #Quake  #Taiwan  #Hualien  #HualienCity  #News  #BBCNews</title>
-    <updated>2024-04-04T11:50:47+00:00</updated>
-    <content>Residents of Hualien recounted how the 7.4 magnitude earthquake shook homes, killing nine and injuring more than 1,000. #Earthquake  #NaturalDisasters  #Quake  #Taiwan  #Hualien  #HualienCity  #News  #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7353978047319624993"/>
-    <published>2024-04-04T11:50:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7354009154224180513</id>
     <title>Piran Ditta Khan spent nearly two decades evading justice for his part in the killing of PC Sharon Beshenivsky in Bradford in 2005. #Bradford  #SharonBeshenivsky  #PCSharonBeshenivsky  #Police  #Robbery  #Bradford  #England  #News  #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>The Israeli military has sacked two senior officers after seven World Central Kitchen aid workers were killed in a strike in Gaza on Monday. #WorldCentralKitchen #WCK #Israel #Gaza #BreakingNews #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7354338401732119840"/>
     <published>2024-04-05T11:09:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7354409915256933665</id>
+    <title>Are you seeing a rise in sexism at your school? #School #Education #SocialMedia #InternetSafety #Classrooms #Classes #Learning #GCSEs #ALevels #BBCNews</title>
+    <updated>2024-04-05T15:46:39+00:00</updated>
+    <content>Are you seeing a rise in sexism at your school? #School #Education #SocialMedia #InternetSafety #Classrooms #Classes #Learning #GCSEs #ALevels #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7354409915256933665"/>
+    <published>2024-04-05T15:46:39+00:00</published>
   </entry>
 </feed>
