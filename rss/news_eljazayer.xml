@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@news_eljazayer</id>
   <title>news_eljazayer TikTok</title>
-  <updated>2024-04-06T21:43:51+00:00</updated>
+  <updated>2024-04-06T23:21:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from news_eljazayer</subtitle>
-  <entry>
-    <id>https://tiktok.com/@news_eljazayer/video/7354076652319542561</id>
-    <title>#تلمسان #09 #algeria #kabyle #tiziouzou #oran #dzpower #newsالجزائر #dans #algeria #تحياالجزائر #duo #dz </title>
-    <updated>2024-04-04T18:13:26+00:00</updated>
-    <content>#تلمسان #09 #algeria #kabyle #tiziouzou #oran #dzpower #newsالجزائر #dans #algeria #تحياالجزائر #duo #dz </content>
-    <link href="https://tiktok.com/@news_eljazayer/video/7354076652319542561"/>
-    <published>2024-04-04T18:13:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@news_eljazayer/video/7354415813870357793</id>
     <title>#dz #تحياالجزائر #algeria #dans #newsالجزائر #dzpower #oran #oran #tiziouzou #kabyle #incroyable #fyp #تبون #58wilaya #news #😱 </title>
@@ -67,6 +59,14 @@
     <content>#duo avec @wail Azzi #TikTokFashion #تلمسان #تحياالجزائر #dzpower #algeria #😱 #تبون #incroyable #dz #newsالجزائر #58wilaya #fyp #newsالجزائر </content>
     <link href="https://tiktok.com/@news_eljazayer/video/7354873036497030432"/>
     <published>2024-04-06T21:43:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@news_eljazayer/video/7354898100890209568</id>
+    <title>#newsالجزائر #fyp #58wilaya #dz #incroyable #تبون #😱 #😱 #algeria #dzpower #تحياالجزائر #تلمسان #TikTokFashion #الجزائر #duo #kabyle #oran #dans </title>
+    <updated>2024-04-06T23:21:12+00:00</updated>
+    <content>#newsالجزائر #fyp #58wilaya #dz #incroyable #تبون #😱 #😱 #algeria #dzpower #تحياالجزائر #تلمسان #TikTokFashion #الجزائر #duo #kabyle #oran #dans </content>
+    <link href="https://tiktok.com/@news_eljazayer/video/7354898100890209568"/>
+    <published>2024-04-06T23:21:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@news_eljazayer/video/7244903164032470299</id>
