@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ennahar.tv</id>
   <title>ennahar.tv TikTok</title>
-  <updated>2024-04-06T01:30:30+00:00</updated>
+  <updated>2024-04-06T01:54:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ennahar.tv</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7354097784762502406</id>
-    <title>لحظة مؤثرة بين #عيسى و #بوعلام.. اسمحلي صاحبي🥺 #الرهان الحلقة الأخيرة 👇👇  https://youtu.be/m4vXIsS9VAI #ennahar_tv📺 #مسلسل_الرهان #alger🇩🇿 </title>
-    <updated>2024-04-04T19:35:24+00:00</updated>
-    <content>لحظة مؤثرة بين #عيسى و #بوعلام.. اسمحلي صاحبي🥺 #الرهان الحلقة الأخيرة 👇👇  https://youtu.be/m4vXIsS9VAI #ennahar_tv📺 #مسلسل_الرهان #alger🇩🇿 </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7354097784762502406"/>
-    <published>2024-04-04T19:35:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7354098559169432838</id>
-    <title>عيسى الزياني يدافع عن نفسه بكلام مؤثر في حبه وتعلقه بالوطن🥺 #الرهان الحلقة الأخيرة 👇👇  https://youtu.be/m4vXIsS9VAI #alger🇩🇿 #مسلسل_الرهان #ennahar_tv📺 #عيسى </title>
-    <updated>2024-04-04T19:38:25+00:00</updated>
-    <content>عيسى الزياني يدافع عن نفسه بكلام مؤثر في حبه وتعلقه بالوطن🥺 #الرهان الحلقة الأخيرة 👇👇  https://youtu.be/m4vXIsS9VAI #alger🇩🇿 #مسلسل_الرهان #ennahar_tv📺 #عيسى </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7354098559169432838"/>
-    <published>2024-04-04T19:38:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7354180890769001734</id>
     <title>📌 محمد تاكيرات .. دوري في مسلسل الرهان معقد قليلا وليس من السهل تجسيده #alger🇩🇿 #مسلسل_الرهان #ennahar_tv📺 </title>
@@ -53,20 +37,36 @@
     <published>2024-04-05T01:34:23+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7354559688479886597</id>
-    <title>🔴🔴 #شاهد .. كراكاج خرافي لمولودية الجزائر أمام اتحاد سوف بملعب 5 جويلية..🔥🔥 #ennahar_tv📺 #رمضان_2024 #MCA#alger🇩🇿 </title>
-    <updated>2024-04-06T01:27:50+00:00</updated>
-    <content>🔴🔴 #شاهد .. كراكاج خرافي لمولودية الجزائر أمام اتحاد سوف بملعب 5 جويلية..🔥🔥 #ennahar_tv📺 #رمضان_2024 #MCA#alger🇩🇿 </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7354559688479886597"/>
-    <published>2024-04-06T01:27:50+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7354560374445739270</id>
     <title>كي يقولولي جيب كارت الزيادة.. نحشم🥺 الحلقة كاملة👇👇 https://youtu.be/TusKAATYKAQ #alger🇩🇿 #MCA #ennahar_tv📺 #الرهان </title>
     <updated>2024-04-06T01:30:30+00:00</updated>
     <content>كي يقولولي جيب كارت الزيادة.. نحشم🥺 الحلقة كاملة👇👇 https://youtu.be/TusKAATYKAQ #alger🇩🇿 #MCA #ennahar_tv📺 #الرهان </content>
     <link href="https://tiktok.com/@ennahar.tv/video/7354560374445739270"/>
     <published>2024-04-06T01:30:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7354563726885866758</id>
+    <title>📌 شاهد .. ديو غنائي على المباشر بين الشاب رشدي و أحلام قواسمي #ennahar_tv📺 #zapping #alger🇩🇿 #رمضان_2024 </title>
+    <updated>2024-04-06T01:43:31+00:00</updated>
+    <content>📌 شاهد .. ديو غنائي على المباشر بين الشاب رشدي و أحلام قواسمي #ennahar_tv📺 #zapping #alger🇩🇿 #رمضان_2024 </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7354563726885866758"/>
+    <published>2024-04-06T01:43:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7354565372252572933</id>
+    <title>📌 الشاب رشدي .. أنا نجم الأغنية السطايفية حاليا بدون منازع #alger🇩🇿 #رمضان_2024 #zapping #ennahar_tv📺 </title>
+    <updated>2024-04-06T01:49:54+00:00</updated>
+    <content>📌 الشاب رشدي .. أنا نجم الأغنية السطايفية حاليا بدون منازع #alger🇩🇿 #رمضان_2024 #zapping #ennahar_tv📺 </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7354565372252572933"/>
+    <published>2024-04-06T01:49:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7354566495768186117</id>
+    <title>🔴🔴 #شاهد .. إيشونج بين لاعبي العميد و أنصارهم عقب الفوز على اتحاد سوف بثلاثية نظيفة #ennahar_tv📺 #alger🇩🇿 #MCA #شاهد </title>
+    <updated>2024-04-06T01:54:14+00:00</updated>
+    <content>🔴🔴 #شاهد .. إيشونج بين لاعبي العميد و أنصارهم عقب الفوز على اتحاد سوف بثلاثية نظيفة #ennahar_tv📺 #alger🇩🇿 #MCA #شاهد </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7354566495768186117"/>
+    <published>2024-04-06T01:54:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7213842316166024453</id>
