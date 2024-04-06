@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-06T22:00:00+00:00</updated>
+  <updated>2024-04-06T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354824892207910151</id>
-    <title>عبر الخريطة التفاعلية.. تعرف على كيفية كمين الزنة بخان يونس؟ #الأخبار #خانيونس #حرب_غزة #كمين #فلسطين</title>
-    <updated>2024-04-06T18:37:19+00:00</updated>
-    <content>عبر الخريطة التفاعلية.. تعرف على كيفية كمين الزنة بخان يونس؟ #الأخبار #خانيونس #حرب_غزة #كمين #فلسطين</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354824892207910151"/>
-    <published>2024-04-06T18:37:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354825963521264903</id>
-    <title>مطار حمد الدولي يقود مبادرة لإفطار الصائمين المسافرين ويقدم محطة تشمل المأكولات والتمر والقهوة العربية بعد أذان المغرب في لامب بير وسوق المطار وحديقة أورتشارز منذ بداية شهر رمضان الفضيل ما رأيكم بهذه المبادرة؟ @HIAQatar  #فيديو #مطار_حمد_الدولي #hia #hama</title>
-    <updated>2024-04-06T18:41:13+00:00</updated>
-    <content>مطار حمد الدولي يقود مبادرة لإفطار الصائمين المسافرين ويقدم محطة تشمل المأكولات والتمر والقهوة العربية بعد أذان المغرب في لامب بير وسوق المطار وحديقة أورتشارز منذ بداية شهر رمضان الفضيل ما رأيكم بهذه المبادرة؟ @HIAQatar  #فيديو #مطار_حمد_الدولي #hia #hama</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354825963521264903"/>
-    <published>2024-04-06T18:41:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354831910998183176</id>
     <title>استعدادات لبدء جولة مفاوضات جديدة في #القاهرة  بشأن صفقة التبادل، وطهران تؤكد: ردنا على الهجوم الإسرائيلي على القنصلية الإيرانية بدمشق حتمي #حرب_غزة #إيجاز #صفقة_تبادل #إسرائيل #فلسطين</title>
@@ -67,6 +51,22 @@
     <content>اتهامات لجوجل بتقديم خدمات لإسرائيل لقتل فلسطينيين #حرب_غزة #فيديو_رقمي #إسرائيل #جوجل</content>
     <link href="https://tiktok.com/@aljazeera/video/7354838379890019602"/>
     <published>2024-04-06T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354891831865314568</id>
+    <title>نائب وزير في مكتب رئيس الوزراء الإسرائيلي: أدعو لإقالة رئيس الأركان فورا فقراراته الأخيرة أدت لانعدام الثقة به. نائب وزير في مكتب رئيس الوزراء الإسرائيلي: مع رئيس الأركان الحالي لن نتمكن من الانتصار في الحرب. #عاجل #الجيش_الإسرائيلي #حرب_غزة</title>
+    <updated>2024-04-06T22:56:59+00:00</updated>
+    <content>نائب وزير في مكتب رئيس الوزراء الإسرائيلي: أدعو لإقالة رئيس الأركان فورا فقراراته الأخيرة أدت لانعدام الثقة به. نائب وزير في مكتب رئيس الوزراء الإسرائيلي: مع رئيس الأركان الحالي لن نتمكن من الانتصار في الحرب. #عاجل #الجيش_الإسرائيلي #حرب_غزة</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354891831865314568"/>
+    <published>2024-04-06T22:56:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354839600411577618</id>
+    <title>أديب الفقهاء وفقيه الأدباء.. تعرّف على حياة القاضي والصحفي والفقيه السوري علي الطنطاوي. #الجزيرة_في_رمضان  #بروفايل #الطنطاوي #علي_الطنطاوي #ramadan2024</title>
+    <updated>2024-04-06T23:00:00+00:00</updated>
+    <content>أديب الفقهاء وفقيه الأدباء.. تعرّف على حياة القاضي والصحفي والفقيه السوري علي الطنطاوي. #الجزيرة_في_رمضان  #بروفايل #الطنطاوي #علي_الطنطاوي #ramadan2024</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354839600411577618"/>
+    <published>2024-04-06T23:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>

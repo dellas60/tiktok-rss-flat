@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ennahar.tv</id>
   <title>ennahar.tv TikTok</title>
-  <updated>2024-04-06T21:00:58+00:00</updated>
+  <updated>2024-04-06T22:59:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ennahar.tv</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7354560374445739270</id>
-    <title>كي يقولولي جيب كارت الزيادة.. نحشم🥺 الحلقة كاملة👇👇 https://youtu.be/TusKAATYKAQ #alger🇩🇿 #MCA #ennahar_tv📺 #الرهان </title>
-    <updated>2024-04-06T01:30:30+00:00</updated>
-    <content>كي يقولولي جيب كارت الزيادة.. نحشم🥺 الحلقة كاملة👇👇 https://youtu.be/TusKAATYKAQ #alger🇩🇿 #MCA #ennahar_tv📺 #الرهان </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7354560374445739270"/>
-    <published>2024-04-06T01:30:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7354563726885866758</id>
     <title>📌 شاهد .. ديو غنائي على المباشر بين الشاب رشدي و أحلام قواسمي #ennahar_tv📺 #zapping #alger🇩🇿 #رمضان_2024 </title>
@@ -67,6 +59,14 @@
     <content>📌"حاب نسلم على مّا".. من أقوى المشاهد في #مسلسل_الرهان شاهد الحلقة كاملة👇👇 https://youtu.be/kZB54VhwqEQ #ennahar_tv📺 #رمضان_2024 #fyp #الرهان </content>
     <link href="https://tiktok.com/@ennahar.tv/video/7354862002424024325"/>
     <published>2024-04-06T21:00:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7354892470628486405</id>
+    <title>لوكان نهيت ولدي على غدر النسا!! شاهد الحلقة كاملة👇👇 https://youtu.be/AN3o8PezlqY #الرهان #fyp #رمضان_2024 #ennahar_tv📺 </title>
+    <updated>2024-04-06T22:59:13+00:00</updated>
+    <content>لوكان نهيت ولدي على غدر النسا!! شاهد الحلقة كاملة👇👇 https://youtu.be/AN3o8PezlqY #الرهان #fyp #رمضان_2024 #ennahar_tv📺 </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7354892470628486405"/>
+    <published>2024-04-06T22:59:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7213842316166024453</id>
