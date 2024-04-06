@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-06T13:30:00+00:00</updated>
+  <updated>2024-04-06T14:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354493760497044743</id>
-    <title>الرئيس الإيراني: الكيان الصهيوني لم يحقق أيا من أهدافه وهو يواجه هزيمة في مواجهة المقاومة #الأخبار #إيران #إبراهيم_رئيسي #إسرائيل</title>
-    <updated>2024-04-05T21:12:34+00:00</updated>
-    <content>الرئيس الإيراني: الكيان الصهيوني لم يحقق أيا من أهدافه وهو يواجه هزيمة في مواجهة المقاومة #الأخبار #إيران #إبراهيم_رئيسي #إسرائيل</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354493760497044743"/>
-    <published>2024-04-05T21:12:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354496797303262471</id>
     <title>عاجل | سي بي إس عن مسؤولين أمريكيين: رد إيران قد يستهدف منشأة دبلوماسية إسرائيلية وقد يحدث من الآن وحتى نهاية رمضان. 🚨 نيويورك تايمز عن مسؤول إسرائيلي: محللون إسرائيليون خلصوا إلى أن إيران ستهاجم إسرائيل بنفسها لا عبر حزب الله. #عاجل #إيران #إسرائيل </title>
@@ -67,6 +59,14 @@
     <content>”والله يا رسول الله صامدين” .. رسالة طفلة عن صمود أهل غزة. #فيديو #طفلة #صمود #حرب_غزة #غزة #فلسطين #رسول</content>
     <link href="https://tiktok.com/@aljazeera/video/7354734372446047489"/>
     <published>2024-04-06T13:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354749132923342096</id>
+    <title>السيسي: مصر ستسعى لحصول الشعب الفلسطيني على حقوقه المشروعة لإقامة دولته المستقلة. #الأخبار #السيسي #مصر #فلسطين #دولة #حرب_غزة</title>
+    <updated>2024-04-06T14:00:00+00:00</updated>
+    <content>السيسي: مصر ستسعى لحصول الشعب الفلسطيني على حقوقه المشروعة لإقامة دولته المستقلة. #الأخبار #السيسي #مصر #فلسطين #دولة #حرب_غزة</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354749132923342096"/>
+    <published>2024-04-06T14:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
