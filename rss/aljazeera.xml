@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-06T19:04:35+00:00</updated>
+  <updated>2024-04-06T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354810344189070609</id>
-    <title>سيدة غزية تناشد الدول العربية و تتمنى وقف الحرب على غزة. #فيديو #حرب_غزة #سيدة_الانسانية #العرب #وقف_الحرب #غزة</title>
-    <updated>2024-04-06T17:40:32+00:00</updated>
-    <content>سيدة غزية تناشد الدول العربية و تتمنى وقف الحرب على غزة. #فيديو #حرب_غزة #سيدة_الانسانية #العرب #وقف_الحرب #غزة</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354810344189070609"/>
-    <published>2024-04-06T17:40:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354810745806228744</id>
-    <title>لإسناد المنظومة الطبية المنهارة.. وفد كويتي طبي يزور قطاع غزة #حرب_غزة  #فيديو_رقمي #الكويت</title>
-    <updated>2024-04-06T17:44:45+00:00</updated>
-    <content>لإسناد المنظومة الطبية المنهارة.. وفد كويتي طبي يزور قطاع غزة #حرب_غزة  #فيديو_رقمي #الكويت</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354810745806228744"/>
-    <published>2024-04-06T17:44:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354817952329338119</id>
     <title>"سلوك مقيت توعد الله أصحابه بالحرمان من الجنة".. ما أسوأ خلق في البشر؟ وما عقوبة من يعيشون به؟.. الداعية الكويتي نبيل العوضي يجيب⁣ ⁣ #الشريعة_والحياة_في_رمضان  #الجزيرة_في_رمضان #ramadan2024 #نبيل_العوضي</title>
@@ -67,6 +51,22 @@
     <content>استعدادات لبدء جولة مفاوضات جديدة في #القاهرة  بشأن صفقة التبادل، وطهران تؤكد: ردنا على الهجوم الإسرائيلي على القنصلية الإيرانية بدمشق حتمي #حرب_غزة #إيجاز #صفقة_تبادل #إسرائيل #فلسطين</content>
     <link href="https://tiktok.com/@aljazeera/video/7354831910998183176"/>
     <published>2024-04-06T19:04:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354843884515577096</id>
+    <title>الشرطة الإسرائيلية: إصابة ضابطة خلال المظاهرات بتل أبيب #عاجل #إسرائيل #حرب_غزة</title>
+    <updated>2024-04-06T19:50:56+00:00</updated>
+    <content>الشرطة الإسرائيلية: إصابة ضابطة خلال المظاهرات بتل أبيب #عاجل #إسرائيل #حرب_غزة</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354843884515577096"/>
+    <published>2024-04-06T19:50:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354832586419555592</id>
+    <title>ثغرة تكشف هوية قائد الوحدة 8200 في الجيش الإسرائيلي #فيديو_رقمي #حرب_غزة #الجيش_الإسرائيلي #إسرائيل #فلسطين</title>
+    <updated>2024-04-06T20:00:00+00:00</updated>
+    <content>ثغرة تكشف هوية قائد الوحدة 8200 في الجيش الإسرائيلي #فيديو_رقمي #حرب_غزة #الجيش_الإسرائيلي #إسرائيل #فلسطين</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354832586419555592"/>
+    <published>2024-04-06T20:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
