@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-06T12:42:53+00:00</updated>
+  <updated>2024-04-06T13:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354483077160258832</id>
-    <title>بفصاحة وبلاغة.. طفلة غزية تصف الحال في مدينة غزة #فيديو#حرب_غزة #غزة #غزة </title>
-    <updated>2024-04-05T20:30:53+00:00</updated>
-    <content>بفصاحة وبلاغة.. طفلة غزية تصف الحال في مدينة غزة #فيديو#حرب_غزة #غزة #غزة </content>
-    <link href="https://tiktok.com/@aljazeera/video/7354483077160258832"/>
-    <published>2024-04-05T20:30:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354493760497044743</id>
     <title>الرئيس الإيراني: الكيان الصهيوني لم يحقق أيا من أهدافه وهو يواجه هزيمة في مواجهة المقاومة #الأخبار #إيران #إبراهيم_رئيسي #إسرائيل</title>
@@ -67,6 +59,14 @@
     <content>تحسبا لهجوم إيراني.. أمريكا ترفع حالة التأهب القصوى في المنطقة. #الأخبار #أمريكا #إيران #عاجل #هجوم</content>
     <link href="https://tiktok.com/@aljazeera/video/7354733599385586945"/>
     <published>2024-04-06T12:42:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354734372446047489</id>
+    <title>”والله يا رسول الله صامدين” .. رسالة طفلة عن صمود أهل غزة. #فيديو #طفلة #صمود #حرب_غزة #غزة #فلسطين #رسول</title>
+    <updated>2024-04-06T13:30:00+00:00</updated>
+    <content>”والله يا رسول الله صامدين” .. رسالة طفلة عن صمود أهل غزة. #فيديو #طفلة #صمود #حرب_غزة #غزة #فلسطين #رسول</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354734372446047489"/>
+    <published>2024-04-06T13:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
