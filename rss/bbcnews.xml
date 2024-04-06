@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-06T11:00:00+00:00</updated>
+  <updated>2024-04-06T11:35:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7354322772278922529</id>
-    <title>Twenty-eight countries voted in favour, six against, and 13 abstained from the resolution calling for a weapons ban on Israel. #UN #HumanRights #UNHRC #HumanRightsCouncil #Israel #Gaza #BreakingNews #BBCNews</title>
-    <updated>2024-04-05T10:08:32+00:00</updated>
-    <content>Twenty-eight countries voted in favour, six against, and 13 abstained from the resolution calling for a weapons ban on Israel. #UN #HumanRights #UNHRC #HumanRightsCouncil #Israel #Gaza #BreakingNews #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7354322772278922529"/>
-    <published>2024-04-05T10:08:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7354335454314908960</id>
     <title>The offer will mean some consultants will receive a pay increase of nearly 20%. #NHS #NHSPay #Strikes #Doctors #Health #BreakingNews #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>The performance was missing from the BBC Archive and was thought to have been lost forever. You can watch it and much more on a night of BBC Two ABBA specials on Saturday 6th. #ABBA #TopOfThePops #BBCArchive #ABBAMusic #ABBASong #Eurovision #MusicTok #Nos</content>
     <link href="https://tiktok.com/@bbcnews/video/7354409292553800992"/>
     <published>2024-04-06T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7354716186107481377</id>
+    <title>Israel's military says it has recovered the body of hostage Elad Katzir from Gaza during an overnight raid on Khan Yunis. #Israel#Gaza#KhanYunis#EladKatzir#BBCNews</title>
+    <updated>2024-04-06T11:35:24+00:00</updated>
+    <content>Israel's military says it has recovered the body of hostage Elad Katzir from Gaza during an overnight raid on Khan Yunis. #Israel#Gaza#KhanYunis#EladKatzir#BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7354716186107481377"/>
+    <published>2024-04-06T11:35:24+00:00</published>
   </entry>
 </feed>
