@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ennahar.tv</id>
   <title>ennahar.tv TikTok</title>
-  <updated>2024-04-05T01:34:23+00:00</updated>
+  <updated>2024-04-06T01:30:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ennahar.tv</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7353711307901881606</id>
-    <title>تشاهدون سهرة اليوم.. الحلقة الأخيرة من #مسلسل_الرهان  كيف سينتهي صراع العقل والقلب.. وما مصير #عزيز_توغار كونوا في الموعد📺😉 #ennahar_tv📺 #الرهان #alger🇩🇿 </title>
-    <updated>2024-04-03T18:35:41+00:00</updated>
-    <content>تشاهدون سهرة اليوم.. الحلقة الأخيرة من #مسلسل_الرهان  كيف سينتهي صراع العقل والقلب.. وما مصير #عزيز_توغار كونوا في الموعد📺😉 #ennahar_tv📺 #الرهان #alger🇩🇿 </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7353711307901881606"/>
-    <published>2024-04-03T18:35:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ennahar.tv/video/7353735519354014982</id>
-    <title>#عيسى يراهن ب #عزيز_توغار😳 لا تفوتوا الحلقة الأخيرة من مسلسل #الرهان 👇👇  https://youtu.be/m4vXIsS9VAI #alger🇩🇿 #الرهان #ennahar_tv📺 #مسلسل_الرهان </title>
-    <updated>2024-04-03T20:09:39+00:00</updated>
-    <content>#عيسى يراهن ب #عزيز_توغار😳 لا تفوتوا الحلقة الأخيرة من مسلسل #الرهان 👇👇  https://youtu.be/m4vXIsS9VAI #alger🇩🇿 #الرهان #ennahar_tv📺 #مسلسل_الرهان </content>
-    <link href="https://tiktok.com/@ennahar.tv/video/7353735519354014982"/>
-    <published>2024-04-03T20:09:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7354097784762502406</id>
     <title>لحظة مؤثرة بين #عيسى و #بوعلام.. اسمحلي صاحبي🥺 #الرهان الحلقة الأخيرة 👇👇  https://youtu.be/m4vXIsS9VAI #ennahar_tv📺 #مسلسل_الرهان #alger🇩🇿 </title>
@@ -67,6 +51,22 @@
     <content>📌 مفيدة عداس .. هذه هي حقيقة الستوري لي دارتها بشرى عقبي .. راجلها إنسان معروف و الناس حبو يصوروها معاه بسيف #alger🇩🇿 #رمضان_2024 #ZAPPING #ennahar_tv📺 </content>
     <link href="https://tiktok.com/@ennahar.tv/video/7354190290468605189"/>
     <published>2024-04-05T01:34:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7354559688479886597</id>
+    <title>🔴🔴 #شاهد .. كراكاج خرافي لمولودية الجزائر أمام اتحاد سوف بملعب 5 جويلية..🔥🔥 #ennahar_tv📺 #رمضان_2024 #MCA#alger🇩🇿 </title>
+    <updated>2024-04-06T01:27:50+00:00</updated>
+    <content>🔴🔴 #شاهد .. كراكاج خرافي لمولودية الجزائر أمام اتحاد سوف بملعب 5 جويلية..🔥🔥 #ennahar_tv📺 #رمضان_2024 #MCA#alger🇩🇿 </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7354559688479886597"/>
+    <published>2024-04-06T01:27:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ennahar.tv/video/7354560374445739270</id>
+    <title>كي يقولولي جيب كارت الزيادة.. نحشم🥺 الحلقة كاملة👇👇 https://youtu.be/TusKAATYKAQ #alger🇩🇿 #MCA #ennahar_tv📺 #الرهان </title>
+    <updated>2024-04-06T01:30:30+00:00</updated>
+    <content>كي يقولولي جيب كارت الزيادة.. نحشم🥺 الحلقة كاملة👇👇 https://youtu.be/TusKAATYKAQ #alger🇩🇿 #MCA #ennahar_tv📺 #الرهان </content>
+    <link href="https://tiktok.com/@ennahar.tv/video/7354560374445739270"/>
+    <published>2024-04-06T01:30:30+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@ennahar.tv/video/7213842316166024453</id>
