@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-07T07:15:53+00:00</updated>
+  <updated>2024-04-07T07:44:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354838379890019602</id>
-    <title>اتهامات لجوجل بتقديم خدمات لإسرائيل لقتل فلسطينيين #حرب_غزة #فيديو_رقمي #إسرائيل #جوجل</title>
-    <updated>2024-04-06T22:00:00+00:00</updated>
-    <content>اتهامات لجوجل بتقديم خدمات لإسرائيل لقتل فلسطينيين #حرب_غزة #فيديو_رقمي #إسرائيل #جوجل</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354838379890019602"/>
-    <published>2024-04-06T22:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354891831865314568</id>
     <title>نائب وزير في مكتب رئيس الوزراء الإسرائيلي: أدعو لإقالة رئيس الأركان فورا فقراراته الأخيرة أدت لانعدام الثقة به. نائب وزير في مكتب رئيس الوزراء الإسرائيلي: مع رئيس الأركان الحالي لن نتمكن من الانتصار في الحرب. #عاجل #الجيش_الإسرائيلي #حرب_غزة</title>
@@ -67,6 +59,14 @@
     <content>سي إن إن عن مصدر مطلع: بايدن هدد نتنياهو في مكالمتهما الأخيرة بعواقب وخيمة إذا لم تغير إسرائيل طريقة حربها في غزة #عاجل #بايدن #نتنياهو #حرب_غزة </content>
     <link href="https://tiktok.com/@aljazeera/video/7355020452093365522"/>
     <published>2024-04-07T07:15:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7355027797808581896</id>
+    <title>الناطق العسكري الإسرائيلي: إطلاق نار على حافلة إسرائيلية قرب قرية النبي إلياس شرق قلقيلية والجيش دفع بتعزيزات #عاجل #إسرائيل #حرب_غزة </title>
+    <updated>2024-04-07T07:44:22+00:00</updated>
+    <content>الناطق العسكري الإسرائيلي: إطلاق نار على حافلة إسرائيلية قرب قرية النبي إلياس شرق قلقيلية والجيش دفع بتعزيزات #عاجل #إسرائيل #حرب_غزة </content>
+    <link href="https://tiktok.com/@aljazeera/video/7355027797808581896"/>
+    <published>2024-04-07T07:44:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
