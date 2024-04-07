@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-07T00:00:00+00:00</updated>
+  <updated>2024-04-07T02:14:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354843884515577096</id>
-    <title>الشرطة الإسرائيلية: إصابة ضابطة خلال المظاهرات بتل أبيب #عاجل #إسرائيل #حرب_غزة</title>
-    <updated>2024-04-06T19:50:56+00:00</updated>
-    <content>الشرطة الإسرائيلية: إصابة ضابطة خلال المظاهرات بتل أبيب #عاجل #إسرائيل #حرب_غزة</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354843884515577096"/>
-    <published>2024-04-06T19:50:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354832586419555592</id>
-    <title>ثغرة تكشف هوية قائد الوحدة 8200 في الجيش الإسرائيلي #فيديو_رقمي #حرب_غزة #الجيش_الإسرائيلي #إسرائيل #فلسطين</title>
-    <updated>2024-04-06T20:00:00+00:00</updated>
-    <content>ثغرة تكشف هوية قائد الوحدة 8200 في الجيش الإسرائيلي #فيديو_رقمي #حرب_غزة #الجيش_الإسرائيلي #إسرائيل #فلسطين</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354832586419555592"/>
-    <published>2024-04-06T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354836992175164690</id>
     <title>" من أغلى الهدايا في حياتي".. شابة من غزة تهدي ناشط كويتي حفنة من تراب الأقصى #فيديو #حرب_غزة #الكويت #غزة</title>
@@ -67,6 +51,22 @@
     <content>طفل فلسطيني ينشد لأفراد عائلته الشـ.ــهــداء وسط الأطباء في مستشفى "شـ.ــهــداء الأقصى" وسط قطاع غزة. وفقد الطفل جدته وأخته وأكثر من عشرين فردا من عائلته، بينما أُصيب هو ووالداه في قصف إسرائيلي استهدف منزلهم بغزة. #فيديو #حرب_غزة #غزة_فلسطين #غزة</content>
     <link href="https://tiktok.com/@aljazeera/video/7354841747496668423"/>
     <published>2024-04-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354927987902516496</id>
+    <title>القناة 12 عن وزيرة المواصلات الإسرائيلية- هناك متظاهرون يريدون اغتيال نتنياهو#عاجل #نتنياهو #إسرائيل</title>
+    <updated>2024-04-07T01:17:23+00:00</updated>
+    <content>القناة 12 عن وزيرة المواصلات الإسرائيلية- هناك متظاهرون يريدون اغتيال نتنياهو#عاجل #نتنياهو #إسرائيل</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354927987902516496"/>
+    <published>2024-04-07T01:17:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354942764619975954</id>
+    <title>وسائل إعلام إسرائيلية: مقتل جندي وإصابة 6 آخرين بجراح خطيرة في معارك ضارية في خان يونس جنوب قطاع غزة أمس. #عاجل #حرب_غزة #خانيونس </title>
+    <updated>2024-04-07T02:14:25+00:00</updated>
+    <content>وسائل إعلام إسرائيلية: مقتل جندي وإصابة 6 آخرين بجراح خطيرة في معارك ضارية في خان يونس جنوب قطاع غزة أمس. #عاجل #حرب_غزة #خانيونس </content>
+    <link href="https://tiktok.com/@aljazeera/video/7354942764619975954"/>
+    <published>2024-04-07T02:14:25+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
