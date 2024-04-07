@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@bbcnews</id>
   <title>bbcnews TikTok</title>
-  <updated>2024-04-06T16:13:15+00:00</updated>
+  <updated>2024-04-07T11:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bbcnews</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bbcnews/video/7354409915256933665</id>
-    <title>Are you seeing a rise in sexism at your school? #School #Education #SocialMedia #InternetSafety #Classrooms #Classes #Learning #GCSEs #ALevels #BBCNews</title>
-    <updated>2024-04-05T15:46:39+00:00</updated>
-    <content>Are you seeing a rise in sexism at your school? #School #Education #SocialMedia #InternetSafety #Classrooms #Classes #Learning #GCSEs #ALevels #BBCNews</content>
-    <link href="https://tiktok.com/@bbcnews/video/7354409915256933665"/>
-    <published>2024-04-05T15:46:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bbcnews/video/7354427251712068896</id>
     <title>A magnitude 4.8 earthquake has been felt across New York and the surrounding areas. #NewYork #NewJersey #Earthquake #US #BBCNews</title>
@@ -91,5 +83,13 @@
     <content>People across North America will be treated to the view of a lifetime: a solar eclipse. #SolarEclipse #Eclipse #Eclipse2024 #Space #Texas #US #BBCNews</content>
     <link href="https://tiktok.com/@bbcnews/video/7354787842767310113"/>
     <published>2024-04-06T16:13:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bbcnews/video/7354364680925678880</id>
+    <title>Dev Patel said he created Monkey Man with a British Asian action hero after being disappointed by the lack of representation in action films. #DevPatel #MonkeyMan #FilmTok #ActionFilm #JamesBond #SlumdogMillionaire #Skins #Film #Movie #BBCNews</title>
+    <updated>2024-04-07T11:00:00+00:00</updated>
+    <content>Dev Patel said he created Monkey Man with a British Asian action hero after being disappointed by the lack of representation in action films. #DevPatel #MonkeyMan #FilmTok #ActionFilm #JamesBond #SlumdogMillionaire #Skins #Film #Movie #BBCNews</content>
+    <link href="https://tiktok.com/@bbcnews/video/7354364680925678880"/>
+    <published>2024-04-07T11:00:00+00:00</published>
   </entry>
 </feed>
