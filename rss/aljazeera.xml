@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-07T02:14:25+00:00</updated>
+  <updated>2024-04-07T07:15:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354836992175164690</id>
-    <title>" من أغلى الهدايا في حياتي".. شابة من غزة تهدي ناشط كويتي حفنة من تراب الأقصى #فيديو #حرب_غزة #الكويت #غزة</title>
-    <updated>2024-04-06T21:00:00+00:00</updated>
-    <content>" من أغلى الهدايا في حياتي".. شابة من غزة تهدي ناشط كويتي حفنة من تراب الأقصى #فيديو #حرب_غزة #الكويت #غزة</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354836992175164690"/>
-    <published>2024-04-06T21:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354838379890019602</id>
     <title>اتهامات لجوجل بتقديم خدمات لإسرائيل لقتل فلسطينيين #حرب_غزة #فيديو_رقمي #إسرائيل #جوجل</title>
@@ -67,6 +59,14 @@
     <content>وسائل إعلام إسرائيلية: مقتل جندي وإصابة 6 آخرين بجراح خطيرة في معارك ضارية في خان يونس جنوب قطاع غزة أمس. #عاجل #حرب_غزة #خانيونس </content>
     <link href="https://tiktok.com/@aljazeera/video/7354942764619975954"/>
     <published>2024-04-07T02:14:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7355020452093365522</id>
+    <title>سي إن إن عن مصدر مطلع: بايدن هدد نتنياهو في مكالمتهما الأخيرة بعواقب وخيمة إذا لم تغير إسرائيل طريقة حربها في غزة #عاجل #بايدن #نتنياهو #حرب_غزة </title>
+    <updated>2024-04-07T07:15:53+00:00</updated>
+    <content>سي إن إن عن مصدر مطلع: بايدن هدد نتنياهو في مكالمتهما الأخيرة بعواقب وخيمة إذا لم تغير إسرائيل طريقة حربها في غزة #عاجل #بايدن #نتنياهو #حرب_غزة </content>
+    <link href="https://tiktok.com/@aljazeera/video/7355020452093365522"/>
+    <published>2024-04-07T07:15:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
