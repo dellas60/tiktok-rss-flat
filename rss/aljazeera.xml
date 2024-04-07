@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-06T23:00:00+00:00</updated>
+  <updated>2024-04-07T00:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354831910998183176</id>
-    <title>استعدادات لبدء جولة مفاوضات جديدة في #القاهرة  بشأن صفقة التبادل، وطهران تؤكد: ردنا على الهجوم الإسرائيلي على القنصلية الإيرانية بدمشق حتمي #حرب_غزة #إيجاز #صفقة_تبادل #إسرائيل #فلسطين</title>
-    <updated>2024-04-06T19:04:35+00:00</updated>
-    <content>استعدادات لبدء جولة مفاوضات جديدة في #القاهرة  بشأن صفقة التبادل، وطهران تؤكد: ردنا على الهجوم الإسرائيلي على القنصلية الإيرانية بدمشق حتمي #حرب_غزة #إيجاز #صفقة_تبادل #إسرائيل #فلسطين</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354831910998183176"/>
-    <published>2024-04-06T19:04:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354843884515577096</id>
     <title>الشرطة الإسرائيلية: إصابة ضابطة خلال المظاهرات بتل أبيب #عاجل #إسرائيل #حرب_غزة</title>
@@ -67,6 +59,14 @@
     <content>أديب الفقهاء وفقيه الأدباء.. تعرّف على حياة القاضي والصحفي والفقيه السوري علي الطنطاوي. #الجزيرة_في_رمضان  #بروفايل #الطنطاوي #علي_الطنطاوي #ramadan2024</content>
     <link href="https://tiktok.com/@aljazeera/video/7354839600411577618"/>
     <published>2024-04-06T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7354841747496668423</id>
+    <title>طفل فلسطيني ينشد لأفراد عائلته الشـ.ــهــداء وسط الأطباء في مستشفى "شـ.ــهــداء الأقصى" وسط قطاع غزة. وفقد الطفل جدته وأخته وأكثر من عشرين فردا من عائلته، بينما أُصيب هو ووالداه في قصف إسرائيلي استهدف منزلهم بغزة. #فيديو #حرب_غزة #غزة_فلسطين #غزة</title>
+    <updated>2024-04-07T00:00:00+00:00</updated>
+    <content>طفل فلسطيني ينشد لأفراد عائلته الشـ.ــهــداء وسط الأطباء في مستشفى "شـ.ــهــداء الأقصى" وسط قطاع غزة. وفقد الطفل جدته وأخته وأكثر من عشرين فردا من عائلته، بينما أُصيب هو ووالداه في قصف إسرائيلي استهدف منزلهم بغزة. #فيديو #حرب_غزة #غزة_فلسطين #غزة</content>
+    <link href="https://tiktok.com/@aljazeera/video/7354841747496668423"/>
+    <published>2024-04-07T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
