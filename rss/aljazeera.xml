@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aljazeera</id>
   <title>aljazeera TikTok</title>
-  <updated>2024-04-07T07:44:22+00:00</updated>
+  <updated>2024-04-07T09:18:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://github.com/dellas60/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aljazeera</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aljazeera/video/7354891831865314568</id>
-    <title>نائب وزير في مكتب رئيس الوزراء الإسرائيلي: أدعو لإقالة رئيس الأركان فورا فقراراته الأخيرة أدت لانعدام الثقة به. نائب وزير في مكتب رئيس الوزراء الإسرائيلي: مع رئيس الأركان الحالي لن نتمكن من الانتصار في الحرب. #عاجل #الجيش_الإسرائيلي #حرب_غزة</title>
-    <updated>2024-04-06T22:56:59+00:00</updated>
-    <content>نائب وزير في مكتب رئيس الوزراء الإسرائيلي: أدعو لإقالة رئيس الأركان فورا فقراراته الأخيرة أدت لانعدام الثقة به. نائب وزير في مكتب رئيس الوزراء الإسرائيلي: مع رئيس الأركان الحالي لن نتمكن من الانتصار في الحرب. #عاجل #الجيش_الإسرائيلي #حرب_غزة</content>
-    <link href="https://tiktok.com/@aljazeera/video/7354891831865314568"/>
-    <published>2024-04-06T22:56:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7354839600411577618</id>
     <title>أديب الفقهاء وفقيه الأدباء.. تعرّف على حياة القاضي والصحفي والفقيه السوري علي الطنطاوي. #الجزيرة_في_رمضان  #بروفايل #الطنطاوي #علي_الطنطاوي #ramadan2024</title>
@@ -67,6 +59,14 @@
     <content>الناطق العسكري الإسرائيلي: إطلاق نار على حافلة إسرائيلية قرب قرية النبي إلياس شرق قلقيلية والجيش دفع بتعزيزات #عاجل #إسرائيل #حرب_غزة </content>
     <link href="https://tiktok.com/@aljazeera/video/7355027797808581896"/>
     <published>2024-04-07T07:44:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aljazeera/video/7355052018102242578</id>
+    <title>إذاعة الجيش الإسرائيلي: انسحاب جميع الوحدات التابعة للفرقة 98  بألويتها الثلاثة من منطقة خان يونس وسائل إعلام إسرائيلية: انسحاب الفرقة 98 من خان يونس يأتي في إطار الاستعدادات لعملية في #رفح  #عاجل #الجيش_الإسرائيلي #حرب_غزة </title>
+    <updated>2024-04-07T09:18:23+00:00</updated>
+    <content>إذاعة الجيش الإسرائيلي: انسحاب جميع الوحدات التابعة للفرقة 98  بألويتها الثلاثة من منطقة خان يونس وسائل إعلام إسرائيلية: انسحاب الفرقة 98 من خان يونس يأتي في إطار الاستعدادات لعملية في #رفح  #عاجل #الجيش_الإسرائيلي #حرب_غزة </content>
+    <link href="https://tiktok.com/@aljazeera/video/7355052018102242578"/>
+    <published>2024-04-07T09:18:23+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@aljazeera/video/7347348033090178311</id>
