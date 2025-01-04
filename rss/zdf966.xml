@@ -13,7 +13,14 @@
       <link>https://raw.githubusercontent.com/dellas60/tiktok-rss-flat/main/rss/zdf966.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jan 2025 19:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 17:30:19 +0000</lastBuildDate>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@zdf966/video/7406063140347120901</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/dellas60/tiktok-rss-flat/main/thumbnails/zdf966/screenshot_oEwQQexI7bAPBXmCpF5jEhErPD0nfGAkRBB6WJ.jpg" / &gt; No Description</description>
+      <guid isPermaLink="false">https://tiktok.com/@zdf966/video/7406063140347120901</guid>
+      <pubDate>Thu, 22 Aug 2024 20:27:36 +0000</pubDate>
+    </item>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@zdf966/video/7412015713474465030</link>
@@ -230,13 +237,6 @@
       <description>&lt;img src="https://raw.githubusercontent.com/dellas60/tiktok-rss-flat/main/thumbnails/zdf966/screenshot_oYaBAICo4zzAZduHPhiYAivCIgqB3oek0EPVGz.jpg" / &gt; سوريا الجديدة</description>
       <guid isPermaLink="false">https://tiktok.com/@zdf966/video/7455742876769701126</guid>
       <pubDate>Fri, 03 Jan 2025 17:30:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>جرح سوريا </title>
-      <link>https://tiktok.com/@zdf966/video/7455770934314568966</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/dellas60/tiktok-rss-flat/main/thumbnails/zdf966/screenshot_osUABOIZxZEQ3Ei4AFsT4vx5sBi5JBsvgvSwD.jpg" / &gt; جرح سوريا </description>
-      <guid isPermaLink="false">https://tiktok.com/@zdf966/video/7455770934314568966</guid>
-      <pubDate>Fri, 03 Jan 2025 19:19:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
