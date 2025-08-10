@@ -13,7 +13,14 @@
       <link>https://raw.githubusercontent.com/dellas60/tiktok-rss-flat/main/rss/ahmedseglab.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Aug 2025 11:07:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 02:33:28 +0000</lastBuildDate>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@ahmedseglab/video/7529046070878358806</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/dellas60/tiktok-rss-flat/main/thumbnails/ahmedseglab/screenshot_osyEBZPhEiB8WpW9qJLi5ANIEBaiYntBvlHH9~tplv-tiktokx-origin.image.jpg" / &gt; No Description</description>
+      <guid isPermaLink="false">https://tiktok.com/@ahmedseglab/video/7529046070878358806</guid>
+      <pubDate>Sun, 20 Jul 2025 06:24:17 +0000</pubDate>
+    </item>
     <item>
       <title>No Title</title>
       <link>https://tiktok.com/@ahmedseglab/video/7529185201583344918</link>
@@ -251,13 +258,6 @@
       <description>&lt;img src="https://raw.githubusercontent.com/dellas60/tiktok-rss-flat/main/thumbnails/ahmedseglab/screenshot_ooPE4fAYTgkRBMMIBkziAfBkBFmiEiMFoiKyvi~tplv-tiktokx-origin.image.jpg" / &gt; No Description</description>
       <guid isPermaLink="false">https://tiktok.com/@ahmedseglab/video/7536779329955581206</guid>
       <pubDate>Sun, 10 Aug 2025 02:33:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>No Title</title>
-      <link>https://tiktok.com/@ahmedseglab/video/7536911846863916310</link>
-      <description>&lt;img src="https://raw.githubusercontent.com/dellas60/tiktok-rss-flat/main/thumbnails/ahmedseglab/screenshot_oMDej3GeMpPeo5VQh7wWIclIG49LQIR8LgAAtJ~tplv-tiktokx-origin.image.jpg" / &gt; No Description</description>
-      <guid isPermaLink="false">https://tiktok.com/@ahmedseglab/video/7536911846863916310</guid>
-      <pubDate>Sun, 10 Aug 2025 11:07:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
